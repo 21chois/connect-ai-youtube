@@ -1,0 +1,89 @@
+2026-04-30 21:41:40,252 [INFO] 🚀 파이프라인 시작: 2026-04-30 21:41:40
+2026-04-30 21:41:40,252 [INFO]    모드: DRY RUN
+2026-04-30 21:41:40,253 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 21:41:40,253 [INFO] 📡 STEP 1: 커머스 트렌드 분석 시작
+2026-04-30 21:41:40,253 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 21:41:42,711 [INFO] ✅ 타겟 확정: [백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아] | 점수: 40.0/100
+2026-04-30 21:41:42,712 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 21:41:42,712 [INFO] 🎬 STEP 2: Veo 3.1 롱테이크 영상 생성 시작
+2026-04-30 21:41:42,713 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 21:41:42,859 [INFO]    🖼️  기본 입력 이미지 생성: output_assets\sample_input.jpg
+2026-04-30 21:41:42,860 [INFO]    🧪 [DRY RUN] 영상 생성 스킵 (출력 경로: output_assets\video_20260430_214142.mp4)
+2026-04-30 21:41:42,864 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 21:41:42,864 [INFO] 📤 STEP 3: YouTube SEO 업로드 시작
+2026-04-30 21:41:42,864 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 21:41:42,865 [INFO]    📝 A안 제목: 🔥 백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아 품절대란 실화?! 지금 당장 사야 하는 이유 | 솔직 리뷰
+2026-04-30 21:41:42,865 [INFO]    📝 B안 제목: 충격) 백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아 직접 써봤더니... 이게 진짜야?! [내돈내산]
+2026-04-30 21:41:43,299 [INFO] Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=971761591962-g0gpvfeearq93u8c5q872uhice6kheub.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A51976%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.upload&state=Jpd9swjmvHuvzfrN7sOUTtioiTFxo7&code_challenge=DzBBxfry900PODFcfAsBxWDTurfWxTwbDN9PLBM5JII&code_challenge_method=S256&access_type=offline
+2026-04-30 21:42:38,715 [INFO] "GET /?state=Jpd9swjmvHuvzfrN7sOUTtioiTFxo7&iss=https://accounts.google.com&code=4/0AeoWuM-UGx2bMP-Uwi1IIsolG-HyHIN8yywRljUBCfFghWLP_L4kNTOzxPc9p-eNmh3ezg&scope=https://www.googleapis.com/auth/youtube.upload HTTP/1.1" 200 65
+2026-04-30 21:42:40,336 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-30 21:42:40,362 [INFO] ✅ 업로드 기록 저장 완료: Video ID DRY_RUN_ID
+2026-04-30 21:42:40,364 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 21:42:40,364 [INFO] 🧠 STEP 4: RL Self-Feedback 평가 실행
+2026-04-30 21:42:40,365 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 21:42:40,576 [INFO] Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=971761591962-g0gpvfeearq93u8c5q872uhice6kheub.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A58280%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyt-analytics.readonly&state=JH5cY6g04AuAstLnzidwbGpVCi5uUM&code_challenge=fDE3xUmkbW164gIFPrmxwIkEO0rSLzqBIolQ7ydHMb0&code_challenge_method=S256&access_type=offline
+2026-04-30 21:55:45,656 [INFO] "GET /?state=JH5cY6g04AuAstLnzidwbGpVCi5uUM&iss=https://accounts.google.com&code=4/0AeoWuM8_byAA3Ppd8e59wyzfY-zfmsLBpUGWXSl_ufZsgwbCKyABtT7uRG1UjILJ19gx6w&scope=https://www.googleapis.com/auth/youtube.readonly%20https://www.googleapis.com/auth/yt-analytics.readonly HTTP/1.1" 200 65
+2026-04-30 21:55:47,100 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-30 21:55:49,530 [WARNING] Encountered 403 Forbidden with reason "accessNotConfigured"
+2026-04-30 21:55:49,540 [INFO] ✅ RL 평가 완료: 1개 영상 처리됨
+2026-04-30 21:55:49,540 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 21:55:49,542 [INFO] ⏱️  총 소요 시간: 14분 9초
+2026-04-30 21:55:49,542 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 21:55:49,545 [INFO] 📋 실행 리포트: logs/run_20260430_214140.json
+2026-04-30 22:07:01,299 [INFO] 🚀 파이프라인 시작: 2026-04-30 22:07:01
+2026-04-30 22:07:01,300 [INFO]    모드: LIVE
+2026-04-30 22:07:01,300 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 22:07:01,300 [INFO] 📡 STEP 1: 커머스 트렌드 분석 시작
+2026-04-30 22:07:01,301 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 22:07:03,620 [INFO] ✅ 타겟 확정: [백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아] | 점수: 40.0/100
+2026-04-30 22:07:03,620 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 22:07:03,620 [INFO] 🎬 STEP 2: Veo 3.1 롱테이크 영상 생성 시작
+2026-04-30 22:07:03,621 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 22:07:03,621 [INFO]    📝 프롬프트: Cinematic 16:9 advertisement shot of '백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아'. Ultra-HD, ...
+2026-04-30 22:07:03,622 [INFO]    🎞️  연장 클립 수: 3개 (목표: 20초)
+2026-04-30 22:07:06,547 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview:predictLongRunning "HTTP/1.1 200 OK"
+2026-04-30 22:07:22,087 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview/operations/ki6bevbzq8lt "HTTP/1.1 200 OK"
+2026-04-30 22:07:37,756 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview/operations/ki6bevbzq8lt "HTTP/1.1 200 OK"
+2026-04-30 22:07:53,422 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview/operations/ki6bevbzq8lt "HTTP/1.1 200 OK"
+2026-04-30 22:08:09,091 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview/operations/ki6bevbzq8lt "HTTP/1.1 200 OK"
+2026-04-30 22:08:09,403 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/files/8jmxww3byp1h "HTTP/1.1 200 OK"
+2026-04-30 22:08:12,470 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview:predictLongRunning "HTTP/1.1 200 OK"
+2026-04-30 22:08:28,136 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview/operations/6ke5mwyjvn4p "HTTP/1.1 200 OK"
+2026-04-30 22:08:43,551 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview/operations/6ke5mwyjvn4p "HTTP/1.1 200 OK"
+2026-04-30 22:08:59,164 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview/operations/6ke5mwyjvn4p "HTTP/1.1 200 OK"
+2026-04-30 22:09:14,568 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview/operations/6ke5mwyjvn4p "HTTP/1.1 200 OK"
+2026-04-30 22:09:15,138 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/files/7k5fe4mamras "HTTP/1.1 200 OK"
+2026-04-30 22:09:20,667 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/files/7k5fe4mamras "HTTP/1.1 200 OK"
+2026-04-30 22:09:23,680 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview:predictLongRunning "HTTP/1.1 200 OK"
+2026-04-30 22:09:39,408 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview/operations/tyz9bffyyeri "HTTP/1.1 200 OK"
+2026-04-30 22:09:55,074 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview/operations/tyz9bffyyeri "HTTP/1.1 200 OK"
+2026-04-30 22:10:10,741 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview/operations/tyz9bffyyeri "HTTP/1.1 200 OK"
+2026-04-30 22:10:26,409 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview/operations/tyz9bffyyeri "HTTP/1.1 200 OK"
+2026-04-30 22:10:27,023 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/files/qy1p87pp9okg "HTTP/1.1 200 OK"
+2026-04-30 22:10:29,757 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview:predictLongRunning "HTTP/1.1 200 OK"
+2026-04-30 22:10:45,181 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview/operations/x09eih2e5szg "HTTP/1.1 200 OK"
+2026-04-30 22:11:00,670 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview/operations/x09eih2e5szg "HTTP/1.1 200 OK"
+2026-04-30 22:11:16,176 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview/operations/x09eih2e5szg "HTTP/1.1 200 OK"
+2026-04-30 22:11:31,700 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview/operations/x09eih2e5szg "HTTP/1.1 200 OK"
+2026-04-30 22:11:47,203 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview/operations/x09eih2e5szg "HTTP/1.1 200 OK"
+2026-04-30 22:11:47,817 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/files/7oeh14uxsdid "HTTP/1.1 200 OK"
+2026-04-30 22:11:47,896 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/files/7oeh14uxsdid:download?alt=media "HTTP/1.1 302 Found"
+2026-04-30 22:11:48,447 [INFO] HTTP Request: GET https://generativelanguage.googleapis.com/download/v1beta/files/7oeh14uxsdid:download?alt=media "HTTP/1.1 200 OK"
+2026-04-30 22:11:48,997 [INFO] ✅ 영상 생성 완료: output_assets\video_20260430_220703.mp4
+2026-04-30 22:11:48,997 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 22:11:48,998 [INFO] 📤 STEP 3: YouTube SEO 업로드 시작
+2026-04-30 22:11:48,998 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 22:11:48,998 [INFO]    📝 A안 제목: 🔥 백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아 품절대란 실화?! 지금 당장 사야 하는 이유 | 솔직 리뷰
+2026-04-30 22:11:48,999 [INFO]    📝 B안 제목: 충격) 백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아 직접 써봤더니... 이게 진짜야?! [내돈내산]
+2026-04-30 22:11:49,006 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-30 22:12:03,492 [INFO] ✅ 업로드 기록 저장 완료: Video ID YaekLfpuvbY
+2026-04-30 22:12:03,492 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 22:12:03,493 [INFO] 🧠 STEP 4: RL Self-Feedback 평가 실행
+2026-04-30 22:12:03,493 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 22:12:03,516 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-04-30 22:12:05,107 [WARNING] Encountered 403 Forbidden with reason "accessNotConfigured"
+2026-04-30 22:12:05,117 [INFO] ✅ RL 평가 완료: 1개 영상 처리됨
+2026-04-30 22:12:05,118 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 22:12:05,118 [INFO] ⏱️  총 소요 시간: 5분 3초
+2026-04-30 22:12:05,119 [INFO] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-04-30 22:12:05,126 [INFO] 📋 실행 리포트: logs/run_20260430_220701.json

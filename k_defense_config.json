@@ -1,0 +1,59 @@
+{
+  "project_name": "K_방산_트래픽_폭발_프로젝트",
+  "items": [
+    {
+      "id": "k_def_01",
+      "name": "KF-21 보라매",
+      "youtube_title": "🚀 전 세계가 경악한 대한민국 KF-21 보라매의 미친 성능... 일본도 부러워하는 이유 l #K방산 #KF21 #국뽕쇼츠",
+      "youtube_tags": ["K방산", "KF21", "보라매", "한국전투기", "국방력", "국뽕쇼츠", "밀리터리"],
+      "imagen_prompt": [
+        "Cinematic 9:16 vertical shot of a futuristic sleek grey fighter jet (KF-21 style) breaking the sound barrier in a clear blue sky. Mach cone visible. Photorealistic, 8K.",
+        "Cinematic 9:16 vertical shot of a high-tech fighter jet cockpit with glowing HUD displays, pilot in advanced helmet looking confident.",
+        "Cinematic 9:16 vertical shot of foreign military generals looking at a large screen showing the Korean flag and a fighter jet. Astonished expression. Dramatic lighting."
+      ],
+      "subtitles": [
+        "미국도 놀라고 일본은 부러워 미친다는 대한민국 전투기 KF-21.",
+        "음속의 1.8배로 날며 적의 레이더를 뚫고 들어가는 압도적 스텔스 성능!",
+        "단 10년 만에 자체 개발에 성공한 한국의 기술력에 전 세계가 경악했습니다.",
+        "이제 우리 하늘은 우리가 지킵니다. 자랑스러운 K-방산의 미래!",
+        "구독과 좋아요로 대한민국 국군을 응원해주세요!"
+      ]
+    },
+    {
+      "id": "k_def_02",
+      "name": "K9 자주포",
+      "youtube_title": "🔥 전 세계 자주포 시장 절반을 씹어먹은 K-9 썬더의 위엄... 타국이 줄서서 사는 이유 l #K9자주포 #K방산",
+      "youtube_tags": ["K방산", "K9자주포", "밀리터리", "국방", "자주포", "국뽕", "무기수출"],
+      "imagen_prompt": [
+        "Cinematic 9:16 vertical shot of a massive K9 Thunder self-propelled howitzer firing a shell in a snowy terrain. Huge fire blast from the barrel. 8K realistic.",
+        "Cinematic 9:16 vertical shot of multiple K9 tanks lined up in perfect formation firing simultaneously. Epic battlefield atmosphere.",
+        "Cinematic 9:16 vertical shot of a cargo ship loaded with military tanks sailing across the ocean. Export concept. Dramatic sunset."
+      ],
+      "subtitles": [
+        "전 세계 자주포 시장 점유율 1위, 압도적 생태계 교란종 K-9 썬더!",
+        "달리면서 쏘고, 눈밭에서도 끄떡없는 미친 기동성과 파괴력.",
+        "폴란드부터 호주까지, 전 세계 국가들이 줄을 서서 사가는 이유가 있습니다.",
+        "가성비와 성능 모두를 잡은 대한민국 무기 기술의 결정체!",
+        "K-방산의 위상, 구독하고 계속 받아보세요!"
+      ]
+    },
+    {
+      "id": "k_def_03",
+      "name": "현무-5",
+      "youtube_title": "⚠️ '괴물 미사일' 현무-5 공개되자 주변국들이 긴장한 진짜 이유 l #현무5 #K방산 #미사일",
+      "youtube_tags": ["K방산", "현무5", "탄도미사일", "괴물미사일", "국방력", "국뽕", "군사력"],
+      "imagen_prompt": [
+        "Cinematic 9:16 vertical shot of a massive underground silo opening, revealing the tip of a giant dark ballistic missile (Hyunmoo-5 concept). Fog and dramatic lighting. 8K.",
+        "Cinematic 9:16 vertical shot of a giant missile launching into the night sky with a massive pillar of fire. Cinematic scale.",
+        "Cinematic 9:16 vertical macro shot of a map with a glowing red impact crater, symbolizing extreme destructive power. Tactical war room feel."
+      ],
+      "subtitles": [
+        "핵무기 없이도 적의 지하 벙커를 완벽하게 초토화시키는 괴물 미사일.",
+        "탄두 중량만 무려 8톤! 세계 최고 수준의 파괴력을 자랑하는 현무-5입니다.",
+        "이 미사일의 존재 자체가 주변국들에게는 엄청난 공포이자 억지력입니다.",
+        "대한민국의 고슴도치 전략, 그 중심에 있는 현무-5의 압도적 위용!",
+        "대한민국 국방력의 자부심, 구독하고 함께 느껴보세요!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1572 @@
+[
+  {
+    "video_id": "DRY_RUN_ID",
+    "status": "evaluated",
+    "uploaded_at": "2026-04-30T21:42:40.356205",
+    "file_path": "output_assets\\video_20260430_214142.mp4",
+    "trend_info": {
+      "product": "백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아",
+      "score": 40.0,
+      "views": 2591555,
+      "tags": [],
+      "source": "youtube_trending",
+      "trend_reason": "YouTube 급상승 조회수 2,591,555회",
+      "veo_prompts": {
+        "base_prompt": "Cinematic 16:9 advertisement shot of '백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아'. Ultra-HD, warm studio lighting, shallow depth of field. The product is presented on a clean white marble surface. Slow dolly-in movement reveals premium packaging details. Photo-realistic, 8K quality.",
+        "extend_prompts": [
+          "The camera orbits around the '백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아', revealing all angles. Steam or condensation adds life to the scene. Cinematic color grading.",
+          "Close-up macro shot of '백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아' texture and details. Soft bokeh background. Professional food/product photography style.",
+          "Hero angle wide shot: '백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아' surrounded by complementary props. Golden hour lighting. Lifestyle commercial atmosphere."
+        ]
+      },
+      "seo_metadata": {
+        "titles": [
+          "🔥 백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아 품절대란 실화?! 지금 당장 사야 하는 이유 | 솔직 리뷰",
+          "충격) 백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아 직접 써봤더니... 이게 진짜야?! [내돈내산]"
+        ],
+        "description": "📦 백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아 완전 정복!\n\n🏆 트렌드 점수: 40.0/100 | 분석일: 2026.04.30\n\n📊 선정 이유: YouTube 급상승 조회수 2,591,555회\n\n⚠️ 이 영상은 AI 에이전트 영식(Young-sik)이 자동 제작했습니다.\n\n#백점포차에이스와예쁜알바시급차이#snl코리아 #신상리뷰 #핫템 #강추 #내돈내산 #먹방 #언박싱\n\n🛒 구매 링크: [아래 댓글 고정 참고]\n📌 타임라인:\n0:00 오프닝\n0:05 제품 소개\n0:15 실사용 장면\n",
+        "tags": [
+          "백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아",
+          "신상",
+          "핫템",
+          "강추",
+          "내돈내산",
+          "품절대란",
+          "리뷰",
+          "언박싱",
+          "가성비",
+          "먹방",
+          "2026신상",
+          "트렌드",
+          "쇼핑",
+          "추천",
+          "유용한제품"
+        ],
+        "category_id": "22"
+      },
+      "analyzed_at": "2026-04-30T21:41:42.703232"
+    },
+    "metadata": {
+      "youtube_title": "🔥 백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아 품절대란 실화?! 지금 당장 사야 하는 이유 | 솔직 리뷰",
+      "veo_prompt": "Cinematic 16:9 advertisement shot of '백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아'. Ultra-HD, warm studio lighting, shallow depth of field. The product is presented on a clean white marble surface. Slow dolly-in movement reveals premium packaging details. Photo-realistic, 8K quality."
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 8217,
+        "ctr": 8.64,
+        "avd_ratio": 0.69,
+        "likes": 1790,
+        "mode": "simulation_fallback"
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 3,
+        "total_criteria": 4,
+        "score_breakdown": {
+          "views": false,
+          "ctr": true,
+          "avd_ratio": true,
+          "likes": true
+        },
+        "reward_rate": "3/4"
+      },
+      "note_path": ".agent/memory\\reward\\20260430_215549_DRY_RUN_.md",
+      "evaluated_at": "2026-04-30T21:55:49.537465"
+    }
+  },
+  {
+    "video_id": "YaekLfpuvbY",
+    "status": "evaluated",
+    "uploaded_at": "2026-04-30T22:12:03.489196",
+    "file_path": "output_assets\\video_20260430_220703.mp4",
+    "trend_info": {
+      "product": "백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아",
+      "score": 40.0,
+      "views": 2612460,
+      "tags": [],
+      "source": "youtube_trending",
+      "trend_reason": "YouTube 급상승 조회수 2,612,460회",
+      "veo_prompts": {
+        "base_prompt": "Cinematic 16:9 advertisement shot of '백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아'. Ultra-HD, warm studio lighting, shallow depth of field. The product is presented on a clean white marble surface. Slow dolly-in movement reveals premium packaging details. Photo-realistic, 8K quality.",
+        "extend_prompts": [
+          "The camera orbits around the '백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아', revealing all angles. Steam or condensation adds life to the scene. Cinematic color grading.",
+          "Close-up macro shot of '백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아' texture and details. Soft bokeh background. Professional food/product photography style.",
+          "Hero angle wide shot: '백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아' surrounded by complementary props. Golden hour lighting. Lifestyle commercial atmosphere."
+        ]
+      },
+      "seo_metadata": {
+        "titles": [
+          "🔥 백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아 품절대란 실화?! 지금 당장 사야 하는 이유 | 솔직 리뷰",
+          "충격) 백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아 직접 써봤더니... 이게 진짜야?! [내돈내산]"
+        ],
+        "description": "📦 백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아 완전 정복!\n\n🏆 트렌드 점수: 40.0/100 | 분석일: 2026.04.30\n\n📊 선정 이유: YouTube 급상승 조회수 2,612,460회\n\n⚠️ 이 영상은 AI 에이전트 영식(Young-sik)이 자동 제작했습니다.\n\n#백점포차에이스와예쁜알바시급차이#snl코리아 #신상리뷰 #핫템 #강추 #내돈내산 #먹방 #언박싱\n\n🛒 구매 링크: [아래 댓글 고정 참고]\n📌 타임라인:\n0:00 오프닝\n0:05 제품 소개\n0:15 실사용 장면\n",
+        "tags": [
+          "백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아",
+          "신상",
+          "핫템",
+          "강추",
+          "내돈내산",
+          "품절대란",
+          "리뷰",
+          "언박싱",
+          "가성비",
+          "먹방",
+          "2026신상",
+          "트렌드",
+          "쇼핑",
+          "추천",
+          "유용한제품"
+        ],
+        "category_id": "22"
+      },
+      "analyzed_at": "2026-04-30T22:07:03.613306"
+    },
+    "metadata": {
+      "youtube_title": "🔥 백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아 품절대란 실화?! 지금 당장 사야 하는 이유 | 솔직 리뷰",
+      "veo_prompt": "Cinematic 16:9 advertisement shot of '백점포차 에이스와 예쁜 알바 시급 차이 #snl코리아'. Ultra-HD, warm studio lighting, shallow depth of field. The product is presented on a clean white marble surface. Slow dolly-in movement reveals premium packaging details. Photo-realistic, 8K quality."
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 29980,
+        "ctr": 10.71,
+        "avd_ratio": 0.16,
+        "likes": 1120,
+        "mode": "simulation_fallback"
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 3,
+        "total_criteria": 4,
+        "score_breakdown": {
+          "views": true,
+          "ctr": true,
+          "avd_ratio": false,
+          "likes": true
+        },
+        "reward_rate": "3/4"
+      },
+      "note_path": ".agent/memory\\reward\\20260430_221205_YaekLfpu.md",
+      "evaluated_at": "2026-04-30T22:12:05.113426"
+    }
+  },
+  {
+    "video_id": "VYJEVQjV6Mg",
+    "status": "evaluated",
+    "uploaded_at": "2026-04-30T22:28:34.085310",
+    "file_path": "output_assets\\cat_mukbang_20260430_222352.mp4",
+    "trend_info": {
+      "product": "고양이 요리 먹방",
+      "score": 99.0,
+      "trend_reason": "사용자 특별 요청"
+    },
+    "metadata": {
+      "youtube_title": "🔥 심쿵주의! 직접 요리해서 먹방까지 하는 천재 고양이 셰프 🧑‍🍳🐾",
+      "veo_prompt": "Cinematic 16:9 shot of an adorable fluffy ginger cat standing on its hind legs in a cozy, rustic kitchen. The cat is wearing a tiny chef's hat and apron, actively chopping vegetables on a wooden cutting board with a small knife. Warm natural sunlight streaming through a window. Ultra-HD, 8K, photo-realistic, highly detailed."
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 28287,
+        "ctr": 1.98,
+        "avd_ratio": 0.18,
+        "likes": 1853,
+        "mode": "simulation_fallback"
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 2,
+        "total_criteria": 4,
+        "score_breakdown": {
+          "views": true,
+          "ctr": false,
+          "avd_ratio": false,
+          "likes": true
+        },
+        "reward_rate": "2/4"
+      },
+      "note_path": ".agent/memory\\reward\\20260501_151546_VYJEVQjV.md",
+      "evaluated_at": "2026-05-01T15:15:46.785867"
+    }
+  },
+  {
+    "video_id": "uMIPDopxnb8",
+    "status": "evaluated",
+    "uploaded_at": "2026-05-01T09:33:27.385325",
+    "file_path": "output_assets\\dubai_choco_20260501_093300.mp4",
+    "trend_info": {
+      "product": "편의점 신상 두바이 초콜릿",
+      "score": 95.0,
+      "trend_reason": "감독님(사용자) 특별 지시: 두바이 초콜릿 트래픽 펌핑 1단계"
+    },
+    "metadata": {
+      "youtube_title": "📺 이거 구하려고 편의점 10군데 돌았습니다... 두바이 초콜릿 언박싱!",
+      "veo_prompt": "Cinematic 9:16 vertical macro shot of a premium Dubai chocolate bar on a luxurious marble surface. Soft moody studio lighting. Ultra-HD, 8K, photo-realistic, highly detailed."
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 37341,
+        "ctr": 2.17,
+        "avd_ratio": 0.16,
+        "likes": 1961,
+        "mode": "simulation_fallback"
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 2,
+        "total_criteria": 4,
+        "score_breakdown": {
+          "views": true,
+          "ctr": false,
+          "avd_ratio": false,
+          "likes": true
+        },
+        "reward_rate": "2/4"
+      },
+      "note_path": ".agent/memory\\reward\\20260501_151546_uMIPDopx.md",
+      "evaluated_at": "2026-05-01T15:15:46.933457"
+    }
+  },
+  {
+    "video_id": "ld8jqxP6KP8",
+    "status": "evaluated",
+    "uploaded_at": "2026-05-01T09:44:08.492814",
+    "file_path": "output_assets\\dubai_choco_20260501_094336.mp4",
+    "trend_info": {
+      "product": "편의점 신상 두바이 초콜릿",
+      "score": 95.0,
+      "trend_reason": "감독님(사용자) 특별 지시: 두바이 초콜릿 트래픽 펌핑 1단계"
+    },
+    "metadata": {
+      "youtube_title": "✨ 가격 값 할까? 화제의 두바이 초콜릿 리얼 매크로 샷 리뷰",
+      "veo_prompt": "Cinematic 9:16 vertical macro shot of a premium Dubai chocolate bar on a luxurious marble surface. Soft moody studio lighting. Ultra-HD, 8K, photo-realistic, highly detailed."
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 30356,
+        "ctr": 5.81,
+        "avd_ratio": 0.34,
+        "likes": 299,
+        "mode": "simulation_fallback"
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 3,
+        "total_criteria": 4,
+        "score_breakdown": {
+          "views": true,
+          "ctr": true,
+          "avd_ratio": false,
+          "likes": true
+        },
+        "reward_rate": "3/4"
+      },
+      "note_path": ".agent/memory\\reward\\20260501_151547_ld8jqxP6.md",
+      "evaluated_at": "2026-05-01T15:15:47.406574"
+    }
+  },
+  {
+    "video_id": "Q-h63LHPXts",
+    "status": "evaluated",
+    "uploaded_at": "2026-05-01T09:52:11.269801",
+    "file_path": "output_assets\\dubai_choco_20260501_095124.mp4",
+    "trend_info": {
+      "product": "편의점 신상 두바이 초콜릿",
+      "score": 95.0,
+      "trend_reason": "감독님(사용자) 특별 지시: 두바이 초콜릿 트래픽 펌핑 1단계"
+    },
+    "metadata": {
+      "youtube_title": "🔥 드디어 구했습니다! 편의점 품절대란 두바이 초콜릿 리얼 리뷰 🍫",
+      "veo_prompt": "Cinematic 9:16 vertical macro shot of a premium Dubai chocolate bar on a luxurious marble surface. Soft moody studio lighting. Ultra-HD, 8K, photo-realistic, highly detailed."
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 9904,
+        "ctr": 1.64,
+        "avd_ratio": 0.44,
+        "likes": 1468,
+        "mode": "simulation_fallback"
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 2,
+        "total_criteria": 4,
+        "score_breakdown": {
+          "views": false,
+          "ctr": false,
+          "avd_ratio": true,
+          "likes": true
+        },
+        "reward_rate": "2/4"
+      },
+      "note_path": ".agent/memory\\reward\\20260501_151547_Q-h63LHP.md",
+      "evaluated_at": "2026-05-01T15:15:47.553956"
+    }
+  },
+  {
+    "video_id": "IJg-SLNjgB4",
+    "status": "evaluated",
+    "uploaded_at": "2026-05-01T11:29:30.463910",
+    "file_path": "output_assets\\dubai_series_ep1_20260501_112846.mp4",
+    "trend_info": {
+      "product": "두바이 초콜릿 시리즈 EP.1",
+      "score": 95.0,
+      "trend_reason": "시리즈물 자동 연재 알고리즘"
+    },
+    "metadata": {
+      "youtube_title": "📺 이거 구하려고 편의점 10군데 돌았습니다... CU 이웃집 통통이 두바이 초코쿠키 언박싱!",
+      "veo_prompt": "Cinematic 9:16 vertical macro shot of a thick, gooey pistachio and knafeh filled chocolate cookie broken in half. The pistachio cream is dripping temptingly. Soft moody studio lighting. Ultra-HD, 8K, photo-realistic, highly detailed food photography."
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 35533,
+        "ctr": 1.88,
+        "avd_ratio": 0.74,
+        "likes": 422,
+        "mode": "simulation_fallback"
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 3,
+        "total_criteria": 4,
+        "score_breakdown": {
+          "views": true,
+          "ctr": false,
+          "avd_ratio": true,
+          "likes": true
+        },
+        "reward_rate": "3/4"
+      },
+      "note_path": ".agent/memory\\reward\\20260501_151548_IJg-SLNj.md",
+      "evaluated_at": "2026-05-01T15:15:48.011128"
+    }
+  },
+  {
+    "video_id": "FAwbdHBkuDA",
+    "status": "evaluated",
+    "uploaded_at": "2026-05-01T11:56:23.041842",
+    "file_path": "output_assets\\dubai_series_ep2_20260501_115412.mp4",
+    "trend_info": {
+      "product": "두바이 초콜릿 시리즈 EP.2",
+      "score": 95.0,
+      "trend_reason": "시리즈물 자동 연재 알고리즘"
+    },
+    "metadata": {
+      "youtube_title": "🤯 두바이 초콜릿에 숨겨진 충격적인 진실 3가지 l #쇼츠 #알쓸신잡",
+      "veo_prompt": [
+        "Cinematic 9:16 vertical split-screen showing a question mark over a glowing Dubai chocolate bar.",
+        "Cinematic 9:16 vertical shot of raw golden knafeh pastry noodles resting on a rustic wooden board.",
+        "Cinematic 9:16 vertical macro shot of knafeh noodles being fried in a pan with golden butter.",
+        "Cinematic 9:16 vertical shot of the original FIX Dessert Chocolatier chocolate bar packaging from Dubai.",
+        "Cinematic 9:16 vertical shot showing the thick colorful paint splatters on the original FIX chocolate bar.",
+        "Cinematic 9:16 vertical shot of a modern Korean convenience store dessert shelf filled with various Dubai chocolate copycats.",
+        "Cinematic 9:16 vertical macro shot comparing two chocolate bars side by side, one messy, one perfectly smooth.",
+        "Cinematic 9:16 vertical shot of a big 'SUBSCRIBE' button floating over a pile of roasted pistachios."
+      ]
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 16957,
+        "ctr": 7.93,
+        "avd_ratio": 0.47,
+        "likes": 134,
+        "mode": "simulation_fallback"
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 3,
+        "total_criteria": 4,
+        "score_breakdown": {
+          "views": true,
+          "ctr": true,
+          "avd_ratio": true,
+          "likes": false
+        },
+        "reward_rate": "3/4"
+      },
+      "note_path": ".agent/memory\\reward\\20260501_151548_FAwbdHBk.md",
+      "evaluated_at": "2026-05-01T15:15:48.196201"
+    }
+  },
+  {
+    "video_id": "dkaxr2yDulk",
+    "status": "evaluated",
+    "uploaded_at": "2026-05-01T12:02:28.432887",
+    "file_path": "output_assets\\dubai_series_ep3_20260501_120023.mp4",
+    "trend_info": {
+      "product": "두바이 초콜릿 시리즈 EP.3",
+      "score": 95.0,
+      "trend_reason": "시리즈물 자동 연재 알고리즘"
+    },
+    "metadata": {
+      "youtube_title": "🆚 원조 두바이 초콜릿 vs 편의점 신상 블라인드 테스트 결과는?!",
+      "veo_prompt": [
+        "Cinematic 9:16 vertical shot of two different premium chocolate bars side-by-side on a dark slate background under a spotlight.",
+        "Cinematic 9:16 vertical shot of a blindfolded person preparing to taste chocolate.",
+        "Cinematic 9:16 vertical macro shot of the colorful abstract paint splatters on the original Fix chocolate bar.",
+        "Cinematic 9:16 vertical macro shot of the smooth surface of a standard convenience store Dubai chocolate.",
+        "Cinematic 9:16 vertical extreme close up of the two bars sliced in half to compare the pistachio filling thickness.",
+        "Cinematic 9:16 vertical shot showing the convenience store chocolate having a darker, denser green filling.",
+        "Cinematic 9:16 vertical shot of a person raising a finger in realization after tasting.",
+        "Cinematic 9:16 vertical shot of a winner's trophy next to the convenience store chocolate."
+      ]
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 14592,
+        "ctr": 3.68,
+        "avd_ratio": 0.71,
+        "likes": 824,
+        "mode": "simulation_fallback"
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 3,
+        "total_criteria": 4,
+        "score_breakdown": {
+          "views": true,
+          "ctr": false,
+          "avd_ratio": true,
+          "likes": true
+        },
+        "reward_rate": "3/4"
+      },
+      "note_path": ".agent/memory\\reward\\20260501_151548_dkaxr2yD.md",
+      "evaluated_at": "2026-05-01T15:15:48.638220"
+    }
+  },
+  {
+    "video_id": "lsQ_V0BbnBw",
+    "status": "evaluated",
+    "uploaded_at": "2026-05-01T13:13:36.763421",
+    "file_path": "output_assets\\lotto_cat_20260501_131121.mp4",
+    "trend_info": {
+      "product": "냥도사 로또 추첨",
+      "score": 99.0,
+      "trend_reason": "무당 고양이 100% 자동화 파이프라인 (B채널)"
+    },
+    "metadata": {
+      "youtube_title": "🔮 소름주의.. 영험한 냥도사가 알려주는 이번주 로또 1등 번호 (3, 6...)",
+      "veo_prompt": "Cinematic 9:16 vertical shot of a majestic glowing white cat wearing a traditional Korean shaman hat (Gat) and colorful robes, sitting in a mysterious foggy temple. High quality, 8k."
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 49235,
+        "ctr": 4.33,
+        "avd_ratio": 0.3,
+        "likes": 842,
+        "mode": "simulation_fallback"
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 2,
+        "total_criteria": 4,
+        "score_breakdown": {
+          "views": true,
+          "ctr": false,
+          "avd_ratio": false,
+          "likes": true
+        },
+        "reward_rate": "2/4"
+      },
+      "note_path": ".agent/memory\\reward\\20260501_151548_lsQ_V0Bb.md",
+      "evaluated_at": "2026-05-01T15:15:48.812043"
+    }
+  },
+  {
+    "video_id": "lYlNCTTkb6I",
+    "status": "evaluated",
+    "uploaded_at": "2026-05-01T13:16:30.287088",
+    "file_path": "output_assets\\dubai_series_ep4_20260501_131412.mp4",
+    "trend_info": {
+      "product": "두바이 초콜릿 시리즈 EP.4",
+      "score": 95.0,
+      "trend_reason": "시리즈물 자동 연재 알고리즘"
+    },
+    "metadata": {
+      "youtube_title": "🧑‍🍳 단돈 1만원으로 두바이 초콜릿 100% 똑같이 만드는 레시피 폭로",
+      "veo_prompt": [
+        "Cinematic 9:16 vertical shot of a kitchen table with basic ingredients: chocolate bars, pistachio spread, butter, and raw knafeh noodles.",
+        "Cinematic 9:16 vertical shot of melting dark chocolate chips in a glass bowl over a pot of hot water.",
+        "Cinematic 9:16 vertical shot of golden butter sizzling in a hot frying pan.",
+        "Cinematic 9:16 vertical shot of raw knafeh noodles being fried to a crispy golden brown in the butter.",
+        "Cinematic 9:16 vertical shot of bright green pistachio spread being poured into a bowl of the crispy knafeh.",
+        "Cinematic 9:16 vertical shot of pouring melted chocolate into a silicone mold.",
+        "Cinematic 9:16 vertical macro shot of stuffing the green pistachio knafeh mixture into the chocolate mold.",
+        "Cinematic 9:16 vertical shot of the final perfect homemade Dubai chocolate being broken in half."
+      ]
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 13933,
+        "ctr": 7.5,
+        "avd_ratio": 0.55,
+        "likes": 1813,
+        "mode": "simulation_fallback"
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 4,
+        "total_criteria": 4,
+        "score_breakdown": {
+          "views": true,
+          "ctr": true,
+          "avd_ratio": true,
+          "likes": true
+        },
+        "reward_rate": "4/4"
+      },
+      "note_path": ".agent/memory\\reward\\20260501_151549_lYlNCTTk.md",
+      "evaluated_at": "2026-05-01T15:15:49.244143"
+    }
+  },
+  {
+    "video_id": "jz0e2bSGLeI",
+    "status": "evaluated",
+    "uploaded_at": "2026-05-01T13:30:36.115737",
+    "file_path": "output_assets\\dubai_series_ep5_20260501_132817.mp4",
+    "trend_info": {
+      "product": "두바이 초콜릿 시리즈 EP.5",
+      "score": 95.0,
+      "trend_reason": "시리즈물 자동 연재 알고리즘"
+    },
+    "metadata": {
+      "youtube_title": "🍩 드디어 선넘은 두바이 초콜릿... 수제 공방 두바이 도넛 리얼 매크로 리뷰",
+      "veo_prompt": [
+        "Cinematic 9:16 vertical shot of the exterior of a trendy artisan bakery cafe with people lining up.",
+        "Cinematic 9:16 vertical shot of a display case filled with giant plump donuts topped with crushed pistachios.",
+        "Cinematic 9:16 vertical shot of picking up a heavy, cream-filled donut with a napkin.",
+        "Cinematic 9:16 vertical macro shot of tearing the soft donut bread open with hands.",
+        "Cinematic 9:16 vertical extreme close up of a bright green pistachio and knafeh waterfall erupting from the donut.",
+        "Cinematic 9:16 vertical shot showing the contrasting texture of the soft fluffy donut dough and the crispy green filling.",
+        "Cinematic 9:16 vertical shot of a person taking a massive bite of the donut with cream getting on their lips.",
+        "Cinematic 9:16 vertical shot of an empty plate with a few pistachio crumbs and a 'Must Try' sticker."
+      ]
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 40929,
+        "ctr": 6.3,
+        "avd_ratio": 0.63,
+        "likes": 511,
+        "mode": "simulation_fallback"
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 4,
+        "total_criteria": 4,
+        "score_breakdown": {
+          "views": true,
+          "ctr": true,
+          "avd_ratio": true,
+          "likes": true
+        },
+        "reward_rate": "4/4"
+      },
+      "note_path": ".agent/memory\\reward\\20260501_151549_jz0e2bSG.md",
+      "evaluated_at": "2026-05-01T15:15:49.400814"
+    }
+  },
+  {
+    "video_id": "HUjUaVN1SJA",
+    "status": "evaluated",
+    "uploaded_at": "2026-05-01T13:49:37.878586",
+    "file_path": "output_assets\\lotto_cat_20260501_134723.mp4",
+    "trend_info": {
+      "product": "냥도사 로또 추첨",
+      "score": 99.0,
+      "trend_reason": "무당 고양이 100% 자동화 파이프라인 (B채널)"
+    },
+    "metadata": {
+      "youtube_title": "🔮 소름주의.. 영험한 냥도사가 알려주는 이번주 로또 1등 번호 (1, 20...)",
+      "veo_prompt": "Hyper-realistic 9:16 vertical portrait of a majestic, mystical white cat dressed as a traditional Korean shaman. The cat is wearing intricate, highly detailed colorful silk robes and a black Gat (Korean traditional hat). Ultra-detailed fur, dramatic volumetric lighting, foggy mystical temple background. Shot on 85mm lens, cinematic 8k."
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 28156,
+        "ctr": 7.46,
+        "avd_ratio": 0.56,
+        "likes": 667,
+        "mode": "simulation_fallback"
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 4,
+        "total_criteria": 4,
+        "score_breakdown": {
+          "views": true,
+          "ctr": true,
+          "avd_ratio": true,
+          "likes": true
+        },
+        "reward_rate": "4/4"
+      },
+      "note_path": ".agent/memory\\reward\\20260501_151549_HUjUaVN1.md",
+      "evaluated_at": "2026-05-01T15:15:49.860380"
+    }
+  },
+  {
+    "video_id": "biMmZpAqG1Y",
+    "status": "evaluated",
+    "uploaded_at": "2026-05-01T14:02:29.320609",
+    "file_path": "output_assets\\dubai_series_ep1_20260501_140019.mp4",
+    "trend_info": {
+      "product": "두바이 초콜릿 시리즈 EP.1",
+      "score": 95.0,
+      "trend_reason": "시리즈물 자동 연재 알고리즘"
+    },
+    "metadata": {
+      "youtube_title": "📺 이거 구하려고 편의점 10군데 돌았습니다... CU 이웃집 통통이 두바이 초코쿠키 언박싱!",
+      "veo_prompt": [
+        "Cinematic 9:16 vertical shot of a person holding a convenience store receipt and a colorful packaged chocolate cookie outside a CU convenience store at night. Neon lights.",
+        "Cinematic 9:16 vertical shot looking down at a premium thick chocolate cookie in its open wrapper on a luxurious marble table. Soft moody studio lighting.",
+        "Cinematic 9:16 vertical macro shot of hands breaking a thick chocolate cookie in half, revealing bright green pistachio cream inside.",
+        "Cinematic 9:16 vertical extreme close up of thick, gooey pistachio cream and crispy knafeh strings dripping from the broken chocolate cookie.",
+        "Cinematic 9:16 vertical shot of the cookie halves resting on a clean white plate. The lighting highlights the crispy texture of the chocolate shell.",
+        "Cinematic 9:16 vertical extreme close up focusing on the golden toasted knafeh strings embedded in the green cream.",
+        "Cinematic 9:16 vertical shot of a hand holding a piece of the cookie with a bite taken out of it. Gourmet food photography style.",
+        "Cinematic 9:16 vertical shot of a cute chalkboard sign on a table that says '9/10 Highly Recommended' next to the half-eaten cookie."
+      ]
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 602,
+        "ctr": 9.47,
+        "avd_ratio": 0.21,
+        "likes": 809,
+        "mode": "simulation_fallback"
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 2,
+        "total_criteria": 4,
+        "score_breakdown": {
+          "views": false,
+          "ctr": true,
+          "avd_ratio": false,
+          "likes": true
+        },
+        "reward_rate": "2/4"
+      },
+      "note_path": ".agent/memory\\reward\\20260501_151549_biMmZpAq.md",
+      "evaluated_at": "2026-05-01T15:15:50.000429"
+    }
+  },
+  {
+    "video_id": "rmKSdjryajY",
+    "status": "evaluated",
+    "uploaded_at": "2026-05-01T14:15:24.854884",
+    "file_path": "output_assets\\dubai_series_ep2_20260501_141311.mp4",
+    "trend_info": {
+      "product": "두바이 초콜릿 시리즈 EP.2",
+      "score": 95.0,
+      "trend_reason": "시리즈물 자동 연재 알고리즘"
+    },
+    "metadata": {
+      "youtube_title": "🤯 두바이 초콜릿에 숨겨진 충격적인 진실 3가지 l #쇼츠 #알쓸신잡",
+      "veo_prompt": [
+        "Cinematic 9:16 vertical split-screen showing a question mark over a glowing Dubai chocolate bar.",
+        "Cinematic 9:16 vertical shot of raw golden knafeh pastry noodles resting on a rustic wooden board.",
+        "Cinematic 9:16 vertical macro shot of knafeh noodles being fried in a pan with golden butter.",
+        "Cinematic 9:16 vertical shot of the original FIX Dessert Chocolatier chocolate bar packaging from Dubai.",
+        "Cinematic 9:16 vertical shot showing the thick colorful paint splatters on the original FIX chocolate bar.",
+        "Cinematic 9:16 vertical shot of a modern Korean convenience store dessert shelf filled with various Dubai chocolate copycats.",
+        "Cinematic 9:16 vertical macro shot comparing two chocolate bars side by side, one messy, one perfectly smooth.",
+        "Cinematic 9:16 vertical shot of a big 'SUBSCRIBE' button floating over a pile of roasted pistachios."
+      ]
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 18514,
+        "ctr": 7.84,
+        "avd_ratio": 0.41,
+        "likes": 1684,
+        "mode": "simulation_fallback"
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 4,
+        "total_criteria": 4,
+        "score_breakdown": {
+          "views": true,
+          "ctr": true,
+          "avd_ratio": true,
+          "likes": true
+        },
+        "reward_rate": "4/4"
+      },
+      "note_path": ".agent/memory\\reward\\20260501_151550_rmKSdjry.md",
+      "evaluated_at": "2026-05-01T15:15:50.452600"
+    }
+  },
+  {
+    "video_id": "YAM_8PM7584",
+    "status": "evaluated",
+    "uploaded_at": "2026-05-01T15:09:40.566790",
+    "file_path": "output_assets\\video_20260501_150929.mp4",
+    "trend_info": {
+      "product": "아들의 태양은 아빠였다 저 선수가 우리 아빠예요!",
+      "score": 50.0,
+      "views": 942245,
+      "tags": [
+        "국뽕",
+        "영화리뷰",
+        "영화",
+        "영화쇼츠",
+        "재미있는영상"
+      ],
+      "source": "youtube_trending",
+      "trend_reason": "YouTube 급상승 조회수 942,245회",
+      "veo_prompts": {
+        "base_prompt": "Cinematic 16:9 advertisement shot of '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!'. Ultra-HD, warm studio lighting, shallow depth of field. The product is presented on a clean white marble surface. Slow dolly-in movement reveals premium packaging details. Photo-realistic, 8K quality.",
+        "extend_prompts": [
+          "The camera orbits around the '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!', revealing all angles. Steam or condensation adds life to the scene. Cinematic color grading.",
+          "Close-up macro shot of '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!' texture and details. Soft bokeh background. Professional food/product photography style.",
+          "Hero angle wide shot: '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!' surrounded by complementary props. Golden hour lighting. Lifestyle commercial atmosphere."
+        ]
+      },
+      "seo_metadata": {
+        "titles": [
+          "Hot Trend: 아들의 태양은 아빠였다 저 선수가 우리 아빠예요! Deep Analysis and Review",
+          "Trending Now: 아들의 태양은 아빠였다 저 선수가 우리 아빠예요! Summary Video"
+        ],
+        "description": "Product: 아들의 태양은 아빠였다 저 선수가 우리 아빠예요!\n\nTrend Score: 50.0/100 | Date: 2026.05.01\n\nReason: YouTube 급상승 조회수 942,245회\n\nThis video was automatically created by AI Agent Young-sik.\n\n#아들의태양은아빠였다저선수가우리아빠예요! #신상리뷰 #핫템 #강추 #내돈내산 #먹방 #언박싱\n\n🛒 구매 링크: [아래 댓글 고정 참고]\n📌 타임라인:\n0:00 오프닝\n0:05 제품 소개\n0:15 실사용 장면\n",
+        "tags": [
+          "아들의 태양은 아빠였다 저 선수가 우리 아빠예요!",
+          "신상",
+          "핫템",
+          "강추",
+          "내돈내산",
+          "품절대란",
+          "리뷰",
+          "언박싱",
+          "가성비",
+          "먹방",
+          "2026신상",
+          "트렌드",
+          "쇼핑",
+          "추천",
+          "유용한제품"
+        ],
+        "category_id": "22"
+      },
+      "analyzed_at": "2026-05-01T15:09:29.951806"
+    },
+    "metadata": {
+      "youtube_title": "Hot Trend: 아들의 태양은 아빠였다 저 선수가 우리 아빠예요! Deep Analysis and Review",
+      "veo_prompt": "Cinematic 16:9 advertisement shot of '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!'. Ultra-HD, warm studio lighting, shallow depth of field. The product is presented on a clean white marble surface. Slow dolly-in movement reveals premium packaging details. Photo-realistic, 8K quality."
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 42690,
+        "ctr": 3.21,
+        "avd_ratio": 0.4,
+        "likes": 550,
+        "mode": "simulation_fallback"
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 3,
+        "total_criteria": 4,
+        "score_breakdown": {
+          "views": true,
+          "ctr": false,
+          "avd_ratio": true,
+          "likes": true
+        },
+        "reward_rate": "3/4"
+      },
+      "note_path": ".agent/memory\\reward\\20260501_151550_YAM_8PM7.md",
+      "evaluated_at": "2026-05-01T15:15:50.599724"
+    }
+  },
+  {
+    "video_id": "E8CHx4dNRpM",
+    "status": "evaluated",
+    "uploaded_at": "2026-05-01T15:12:01.201345",
+    "file_path": "output_assets\\video_20260501_151137.mp4",
+    "trend_info": {
+      "product": "아들의 태양은 아빠였다 저 선수가 우리 아빠예요!",
+      "score": 50.0,
+      "views": 942956,
+      "tags": [
+        "국뽕",
+        "영화리뷰",
+        "영화",
+        "영화쇼츠",
+        "재미있는영상"
+      ],
+      "source": "youtube_trending",
+      "trend_reason": "YouTube 급상승 조회수 942,956회",
+      "veo_prompts": {
+        "base_prompt": "Cinematic 16:9 advertisement shot of '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!'. Ultra-HD, warm studio lighting, shallow depth of field. The product is presented on a clean white marble surface. Slow dolly-in movement reveals premium packaging details. Photo-realistic, 8K quality.",
+        "extend_prompts": [
+          "The camera orbits around the '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!', revealing all angles. Steam or condensation adds life to the scene. Cinematic color grading.",
+          "Close-up macro shot of '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!' texture and details. Soft bokeh background. Professional food/product photography style.",
+          "Hero angle wide shot: '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!' surrounded by complementary props. Golden hour lighting. Lifestyle commercial atmosphere."
+        ]
+      },
+      "seo_metadata": {
+        "titles": [
+          "Hot Trend: 아들의 태양은 아빠였다 저 선수가 우리 아빠예요! Deep Analysis and Review",
+          "Trending Now: 아들의 태양은 아빠였다 저 선수가 우리 아빠예요! Summary Video"
+        ],
+        "description": "Product: 아들의 태양은 아빠였다 저 선수가 우리 아빠예요!\n\nTrend Score: 50.0/100 | Date: 2026.05.01\n\nReason: YouTube 급상승 조회수 942,956회\n\nThis video was automatically created by AI Agent Young-sik.\n\n#아들의태양은아빠였다저선수가우리아빠예요! #신상리뷰 #핫템 #강추 #내돈내산 #먹방 #언박싱\n\n🛒 구매 링크: [아래 댓글 고정 참고]\n📌 타임라인:\n0:00 오프닝\n0:05 제품 소개\n0:15 실사용 장면\n",
+        "tags": [
+          "아들의 태양은 아빠였다 저 선수가 우리 아빠예요!",
+          "신상",
+          "핫템",
+          "강추",
+          "내돈내산",
+          "품절대란",
+          "리뷰",
+          "언박싱",
+          "가성비",
+          "먹방",
+          "2026신상",
+          "트렌드",
+          "쇼핑",
+          "추천",
+          "유용한제품"
+        ],
+        "category_id": "22"
+      },
+      "analyzed_at": "2026-05-01T15:11:37.727305"
+    },
+    "metadata": {
+      "youtube_title": "Hot Trend: 아들의 태양은 아빠였다 저 선수가 우리 아빠예요! Deep Analysis and Review",
+      "veo_prompt": "Cinematic 16:9 advertisement shot of '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!'. Ultra-HD, warm studio lighting, shallow depth of field. The product is presented on a clean white marble surface. Slow dolly-in movement reveals premium packaging details. Photo-realistic, 8K quality."
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 11177,
+        "ctr": 1.77,
+        "avd_ratio": 0.26,
+        "likes": 1427,
+        "mode": "simulation_fallback"
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 2,
+        "total_criteria": 4,
+        "score_breakdown": {
+          "views": true,
+          "ctr": false,
+          "avd_ratio": false,
+          "likes": true
+        },
+        "reward_rate": "2/4"
+      },
+      "note_path": ".agent/memory\\reward\\20260501_151551_E8CHx4dN.md",
+      "evaluated_at": "2026-05-01T15:15:51.057142"
+    }
+  },
+  {
+    "video_id": "bCyH0koVIcg",
+    "status": "evaluated",
+    "uploaded_at": "2026-05-01T15:12:49.191634",
+    "file_path": "output_assets\\video_20260501_151237.mp4",
+    "trend_info": {
+      "product": "아들의 태양은 아빠였다 저 선수가 우리 아빠예요!",
+      "score": 50.0,
+      "views": 942963,
+      "tags": [
+        "국뽕",
+        "영화리뷰",
+        "영화",
+        "영화쇼츠",
+        "재미있는영상"
+      ],
+      "source": "youtube_trending",
+      "trend_reason": "YouTube 급상승 조회수 942,963회",
+      "veo_prompts": {
+        "base_prompt": "Cinematic 16:9 advertisement shot of '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!'. Ultra-HD, warm studio lighting, shallow depth of field. The product is presented on a clean white marble surface. Slow dolly-in movement reveals premium packaging details. Photo-realistic, 8K quality.",
+        "extend_prompts": [
+          "The camera orbits around the '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!', revealing all angles. Steam or condensation adds life to the scene. Cinematic color grading.",
+          "Close-up macro shot of '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!' texture and details. Soft bokeh background. Professional food/product photography style.",
+          "Hero angle wide shot: '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!' surrounded by complementary props. Golden hour lighting. Lifestyle commercial atmosphere."
+        ]
+      },
+      "seo_metadata": {
+        "titles": [
+          "Hot Trend: 아들의 태양은 아빠였다 저 선수가 우리 아빠예요! Deep Analysis and Review",
+          "Trending Now: 아들의 태양은 아빠였다 저 선수가 우리 아빠예요! Summary Video"
+        ],
+        "description": "Product: 아들의 태양은 아빠였다 저 선수가 우리 아빠예요!\n\nTrend Score: 50.0/100 | Date: 2026.05.01\n\nReason: YouTube 급상승 조회수 942,963회\n\nThis video was automatically created by AI Agent Young-sik.\n\n#아들의태양은아빠였다저선수가우리아빠예요! #신상리뷰 #핫템 #강추 #내돈내산 #먹방 #언박싱\n\n🛒 구매 링크: [아래 댓글 고정 참고]\n📌 타임라인:\n0:00 오프닝\n0:05 제품 소개\n0:15 실사용 장면\n",
+        "tags": [
+          "아들의 태양은 아빠였다 저 선수가 우리 아빠예요!",
+          "신상",
+          "핫템",
+          "강추",
+          "내돈내산",
+          "품절대란",
+          "리뷰",
+          "언박싱",
+          "가성비",
+          "먹방",
+          "2026신상",
+          "트렌드",
+          "쇼핑",
+          "추천",
+          "유용한제품"
+        ],
+        "category_id": "22"
+      },
+      "analyzed_at": "2026-05-01T15:12:37.889568"
+    },
+    "metadata": {
+      "youtube_title": "Hot Trend: 아들의 태양은 아빠였다 저 선수가 우리 아빠예요! Deep Analysis and Review",
+      "veo_prompt": "Cinematic 16:9 advertisement shot of '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!'. Ultra-HD, warm studio lighting, shallow depth of field. The product is presented on a clean white marble surface. Slow dolly-in movement reveals premium packaging details. Photo-realistic, 8K quality."
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 37970,
+        "ctr": 3.22,
+        "avd_ratio": 0.74,
+        "likes": 979,
+        "mode": "simulation_fallback"
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 3,
+        "total_criteria": 4,
+        "score_breakdown": {
+          "views": true,
+          "ctr": false,
+          "avd_ratio": true,
+          "likes": true
+        },
+        "reward_rate": "3/4"
+      },
+      "note_path": ".agent/memory\\reward\\20260501_151551_bCyH0koV.md",
+      "evaluated_at": "2026-05-01T15:15:51.197642"
+    }
+  },
+  {
+    "video_id": "2Nd-O3WQJns",
+    "status": "evaluated",
+    "uploaded_at": "2026-05-01T15:15:44.394881",
+    "file_path": "output_assets\\video_20260501_151527.mp4",
+    "trend_info": {
+      "product": "아들의 태양은 아빠였다 저 선수가 우리 아빠예요!",
+      "score": 50.0,
+      "views": 945946,
+      "tags": [
+        "국뽕",
+        "영화리뷰",
+        "영화",
+        "영화쇼츠",
+        "재미있는영상"
+      ],
+      "source": "youtube_trending",
+      "trend_reason": "YouTube 급상승 조회수 945,946회",
+      "veo_prompts": {
+        "base_prompt": "Cinematic 16:9 advertisement shot of '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!'. Ultra-HD, warm studio lighting, shallow depth of field. The product is presented on a clean white marble surface. Slow dolly-in movement reveals premium packaging details. Photo-realistic, 8K quality.",
+        "extend_prompts": [
+          "The camera orbits around the '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!', revealing all angles. Steam or condensation adds life to the scene. Cinematic color grading.",
+          "Close-up macro shot of '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!' texture and details. Soft bokeh background. Professional food/product photography style.",
+          "Hero angle wide shot: '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!' surrounded by complementary props. Golden hour lighting. Lifestyle commercial atmosphere."
+        ]
+      },
+      "seo_metadata": {
+        "titles": [
+          "Hot Trend: 아들의 태양은 아빠였다 저 선수가 우리 아빠예요! Deep Analysis and Review",
+          "Trending Now: 아들의 태양은 아빠였다 저 선수가 우리 아빠예요! Summary Video"
+        ],
+        "description": "Product: 아들의 태양은 아빠였다 저 선수가 우리 아빠예요!\n\nTrend Score: 50.0/100 | Date: 2026.05.01\n\nReason: YouTube 급상승 조회수 945,946회\n\nThis video was automatically created by AI Agent Young-sik.\n\n#아들의태양은아빠였다저선수가우리아빠예요! #신상리뷰 #핫템 #강추 #내돈내산 #먹방 #언박싱\n\n🛒 구매 링크: [아래 댓글 고정 참고]\n📌 타임라인:\n0:00 오프닝\n0:05 제품 소개\n0:15 실사용 장면\n",
+        "tags": [
+          "아들의 태양은 아빠였다 저 선수가 우리 아빠예요!",
+          "신상",
+          "핫템",
+          "강추",
+          "내돈내산",
+          "품절대란",
+          "리뷰",
+          "언박싱",
+          "가성비",
+          "먹방",
+          "2026신상",
+          "트렌드",
+          "쇼핑",
+          "추천",
+          "유용한제품"
+        ],
+        "category_id": "22"
+      },
+      "analyzed_at": "2026-05-01T15:15:27.751527"
+    },
+    "metadata": {
+      "youtube_title": "Hot Trend: 아들의 태양은 아빠였다 저 선수가 우리 아빠예요! Deep Analysis and Review",
+      "veo_prompt": "Cinematic 16:9 advertisement shot of '아들의 태양은 아빠였다 저 선수가 우리 아빠예요!'. Ultra-HD, warm studio lighting, shallow depth of field. The product is presented on a clean white marble surface. Slow dolly-in movement reveals premium packaging details. Photo-realistic, 8K quality."
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 49767,
+        "ctr": 1.37,
+        "avd_ratio": 0.32,
+        "likes": 557,
+        "mode": "simulation_fallback"
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 2,
+        "total_criteria": 4,
+        "score_breakdown": {
+          "views": true,
+          "ctr": false,
+          "avd_ratio": false,
+          "likes": true
+        },
+        "reward_rate": "2/4"
+      },
+      "note_path": ".agent/memory\\reward\\20260501_151551_2Nd-O3WQ.md",
+      "evaluated_at": "2026-05-01T15:15:51.661689"
+    }
+  },
+  {
+    "video_id": "adDF3OXH378",
+    "status": "published",
+    "uploaded_at": "2026-05-01T21:22:22.655744",
+    "file_path": "output_assets\\lotto_cat_v2_20260501_211259.mp4",
+    "trend_info": {
+      "product": "냥도사 로또 V2",
+      "score": 99.0
+    },
+    "metadata": {
+      "youtube_title": "🍀 [매일행운] 냥도사의 로또 예상 번호 배달 (매일 업데이트!)",
+      "veo_prompt": "Cinematic 9:16 shot of a mystical shaman cat meditating in a peaceful ancient temple, soft glowing incense smoke, morning sunlight, ultra-HD, photorealistic."
+    }
+  },
+  {
+    "video_id": "xxd6Xt24aU4",
+    "status": "published",
+    "uploaded_at": "2026-05-01T22:15:42.783602",
+    "file_path": "output_assets\\lotto_cat_v2_20260501_221248.mp4",
+    "trend_info": {
+      "product": "냥도사 로또 V2",
+      "score": 99.0
+    },
+    "metadata": {
+      "youtube_title": "🍀 [매일행운] 냥도사의 로또 예상 번호 배달 (매일 업데이트!)",
+      "veo_prompt": "Cinematic 9:16 shot of a mystical shaman cat meditating in a peaceful ancient temple, soft glowing incense smoke, morning sunlight, ultra-HD, photorealistic."
+    }
+  },
+  {
+    "video_id": "bxVxiABEow4",
+    "status": "published",
+    "uploaded_at": "2026-05-02T07:36:04.554230",
+    "file_path": "output_assets\\dubai_series_ep3_20260502_073412.mp4",
+    "trend_info": {
+      "product": "두바이 초콜릿 시리즈 EP.3",
+      "score": 95.0,
+      "trend_reason": "시리즈물 자동 연재 알고리즘"
+    },
+    "metadata": {
+      "youtube_title": "🆚 원조 두바이 초콜릿 vs 편의점 신상 블라인드 테스트 결과는?!",
+      "veo_prompt": [
+        "Cinematic 9:16 vertical shot of two different premium chocolate bars side-by-side on a dark slate background under a spotlight.",
+        "Cinematic 9:16 vertical shot of a blindfolded person preparing to taste chocolate.",
+        "Cinematic 9:16 vertical macro shot of the colorful abstract paint splatters on the original Fix chocolate bar.",
+        "Cinematic 9:16 vertical macro shot of the smooth surface of a standard convenience store Dubai chocolate.",
+        "Cinematic 9:16 vertical extreme close up of the two bars sliced in half to compare the pistachio filling thickness.",
+        "Cinematic 9:16 vertical shot showing the convenience store chocolate having a darker, denser green filling.",
+        "Cinematic 9:16 vertical shot of a person raising a finger in realization after tasting.",
+        "Cinematic 9:16 vertical shot of a winner's trophy next to the convenience store chocolate."
+      ]
+    }
+  },
+  {
+    "video_id": "lGuG-ntBcM8",
+    "status": "published",
+    "uploaded_at": "2026-05-02T19:04:57.483740",
+    "file_path": "output_assets\\lotto_cat_20260502_190017.mp4",
+    "trend_info": {
+      "product": "냥도사 로또 추첨",
+      "score": 99.0,
+      "trend_reason": "무당 고양이 100% 자동화 파이프라인 (B채널)"
+    },
+    "metadata": {
+      "youtube_title": "🔮 소름주의.. 영험한 냥도사가 알려주는 이번주 로또 1등 번호 (3, 16...)",
+      "veo_prompt": "Hyper-realistic 9:16 vertical portrait of a majestic, mystical white cat dressed as a traditional Korean shaman. The cat is wearing intricate, highly detailed colorful silk robes and a black Gat (Korean traditional hat). Ultra-detailed fur, dramatic volumetric lighting, foggy mystical temple background. Shot on 85mm lens, cinematic 8k."
+    }
+  },
+  {
+    "video_id": "2LkFi8f4ePk",
+    "status": "published",
+    "uploaded_at": "2026-05-03T09:18:01.685011",
+    "file_path": "output_assets\\nyandosa_v4_ep1_20260503_091505.mp4",
+    "trend_info": {
+      "product": "Nyandosa V4 EP.1",
+      "score": 100.0
+    },
+    "metadata": {
+      "youtube_title": "🔮 당신에게만 열리는 천상의 문... 냥도사의 첫 번째 예언 l #로또 #운세",
+      "veo_prompt": "Hyper-realistic 9:16 vertical shot of a majestic white cat with glowing sapphire eyes, wearing a miniature traditional Korean black Gat and gold-embroidered silk robes. The cat is sitting on a floating jade throne in a temple above the clouds. Volumetric lighting, ethereal atmosphere, 8k, cinematic."
+    }
+  },
+  {
+    "video_id": "GhVecWIFyqg",
+    "status": "published",
+    "uploaded_at": "2026-05-03T10:35:29.429603",
+    "file_path": "output_assets\\ringdosa_v4_ep2_20260503_103042.mp4",
+    "trend_info": {
+      "product": "Ringdosa V4 EP.2",
+      "score": 100.0
+    },
+    "metadata": {
+      "youtube_title": "🔔 전통시장의 새벽을 여는 링도사의 종소리... 당신에게 행운을! l #로또 #민생",
+      "veo_prompt": "Cinematic 9:16 shot of the bicolor cat (white and brown) in shaman robes walking through a traditional Korean market at dawn. Soft blue morning light, steam rising from food stalls. Hyper-detailed textures."
+    }
+  },
+  {
+    "video_id": "1D1xo38yj-s",
+    "status": "published",
+    "uploaded_at": "2026-05-08T20:41:33.289486",
+    "file_path": "output_assets\\dubai_series_ep4_20260508_202733.mp4",
+    "trend_info": {
+      "product": "두바이 초콜릿 시리즈 EP.4",
+      "score": 95.0,
+      "trend_reason": "시리즈물 자동 연재 알고리즘"
+    },
+    "metadata": {
+      "youtube_title": "🧑‍🍳 단돈 1만원으로 두바이 초콜릿 100% 똑같이 만드는 레시피 폭로",
+      "veo_prompt": [
+        "Cinematic 9:16 vertical shot of a kitchen table with basic ingredients: chocolate bars, pistachio spread, butter, and raw knafeh noodles.",
+        "Cinematic 9:16 vertical shot of melting dark chocolate chips in a glass bowl over a pot of hot water.",
+        "Cinematic 9:16 vertical shot of golden butter sizzling in a hot frying pan.",
+        "Cinematic 9:16 vertical shot of raw knafeh noodles being fried to a crispy golden brown in the butter.",
+        "Cinematic 9:16 vertical shot of bright green pistachio spread being poured into a bowl of the crispy knafeh.",
+        "Cinematic 9:16 vertical shot of pouring melted chocolate into a silicone mold.",
+        "Cinematic 9:16 vertical macro shot of stuffing the green pistachio knafeh mixture into the chocolate mold.",
+        "Cinematic 9:16 vertical shot of the final perfect homemade Dubai chocolate being broken in half."
+      ]
+    }
+  },
+  {
+    "video_id": "Qb9pxFy9MTk",
+    "status": "published",
+    "uploaded_at": "2026-05-08T22:22:20.762333",
+    "file_path": "output_assets\\kaimak_special_20260508_220731.mp4",
+    "trend_info": {
+      "product": "터키 프리미엄 카이막",
+      "score": 98.0,
+      "trend_reason": "데이터 분석가 Stats의 긴급 추천 아이템"
+    },
+    "metadata": {
+      "youtube_title": "🥛 백종원이 '천상의 맛'이라 극찬한 이유... 진짜 카이막 먹방 (충격 주의) l #카이막 #리뷰",
+      "veo_prompt": "Cinematic 9:16 vertical shot of thick, white, clotted cream (kaimak) on a rustic dark wooden board, a honey dipper drizzling golden honey over it. Moody studio lighting."
+    }
+  },
+  {
+    "video_id": "oaGB0GjSMYg",
+    "status": "published",
+    "uploaded_at": "2026-05-09T00:14:07.841264",
+    "file_path": "output_assets\\kaimak_special_20260508_235118.mp4",
+    "trend_info": {
+      "product": "터키 프리미엄 카이막",
+      "score": 98.0,
+      "trend_reason": "데이터 분석가 Stats의 긴급 추천 아이템"
+    },
+    "metadata": {
+      "youtube_title": "🥛 백종원이 '천상의 맛'이라 극찬한 이유... 진짜 카이막 먹방 (충격 주의) l #카이막 #리뷰",
+      "veo_prompt": "Cinematic 9:16 vertical shot of thick, white, clotted cream (kaimak) on a rustic dark wooden board, a honey dipper drizzling golden honey over it. Moody studio lighting."
+    }
+  },
+  {
+    "video_id": "wr7opg7fhDs",
+    "status": "published",
+    "uploaded_at": "2026-05-09T09:39:19.902735",
+    "file_path": "output_assets\\dubai_series_ep5_20260509_093346.mp4",
+    "trend_info": {
+      "product": "두바이 초콜릿 시리즈 EP.5",
+      "score": 95.0,
+      "trend_reason": "시리즈물 자동 연재 알고리즘"
+    },
+    "metadata": {
+      "youtube_title": "🍩 드디어 선넘은 두바이 초콜릿... 수제 공방 두바이 도넛 리얼 매크로 리뷰",
+      "veo_prompt": [
+        "Cinematic 9:16 vertical shot of the exterior of a trendy artisan bakery cafe with people lining up.",
+        "Cinematic 9:16 vertical shot of a display case filled with giant plump donuts topped with crushed pistachios.",
+        "Cinematic 9:16 vertical shot of picking up a heavy, cream-filled donut with a napkin.",
+        "Cinematic 9:16 vertical macro shot of tearing the soft donut bread open with hands.",
+        "Cinematic 9:16 vertical extreme close up of a bright green pistachio and knafeh waterfall erupting from the donut.",
+        "Cinematic 9:16 vertical shot showing the contrasting texture of the soft fluffy donut dough and the crispy green filling.",
+        "Cinematic 9:16 vertical shot of a person taking a massive bite of the donut with cream getting on their lips.",
+        "Cinematic 9:16 vertical shot of an empty plate with a few pistachio crumbs and a 'Must Try' sticker."
+      ]
+    }
+  },
+  {
+    "video_id": "wTQw6Jx3LJ8",
+    "status": "published",
+    "uploaded_at": "2026-05-09T12:10:21.561085",
+    "file_path": "output_assets\\dubai_series_ep1_20260509_120012.mp4",
+    "trend_info": {
+      "product": "두바이 초콜릿 시리즈 EP.1",
+      "score": 95.0,
+      "trend_reason": "시리즈물 자동 연재 알고리즘"
+    },
+    "metadata": {
+      "youtube_title": "📺 이거 구하려고 편의점 10군데 돌았습니다... CU 이웃집 통통이 두바이 초코쿠키 언박싱!",
+      "veo_prompt": [
+        "Cinematic 9:16 vertical shot of a person holding a convenience store receipt and a colorful packaged chocolate cookie outside a CU convenience store at night. Neon lights.",
+        "Cinematic 9:16 vertical shot looking down at a premium thick chocolate cookie in its open wrapper on a luxurious marble table. Soft moody studio lighting.",
+        "Cinematic 9:16 vertical macro shot of hands breaking a thick chocolate cookie in half, revealing bright green pistachio cream inside.",
+        "Cinematic 9:16 vertical extreme close up of thick, gooey pistachio cream and crispy knafeh strings dripping from the broken chocolate cookie.",
+        "Cinematic 9:16 vertical shot of the cookie halves resting on a clean white plate. The lighting highlights the crispy texture of the chocolate shell.",
+        "Cinematic 9:16 vertical extreme close up focusing on the golden toasted knafeh strings embedded in the green cream.",
+        "Cinematic 9:16 vertical shot of a hand holding a piece of the cookie with a bite taken out of it. Gourmet food photography style.",
+        "Cinematic 9:16 vertical shot of a cute chalkboard sign on a table that says '9/10 Highly Recommended' next to the half-eaten cookie."
+      ]
+    }
+  },
+  {
+    "video_id": "YcUwsQELBa0",
+    "status": "evaluated",
+    "uploaded_at": "2026-05-10T12:22:27.187276",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets\\dubai_series_ep3_20260510_121547.mp4",
+    "trend_info": {
+      "product": "두바이 초콜릿 시리즈 EP.3",
+      "score": 95.0,
+      "trend_reason": "시리즈물 자동 연재 알고리즘"
+    },
+    "metadata": {
+      "youtube_title": "🆚 원조 두바이 초콜릿 vs 편의점 신상 블라인드 테스트 결과는?!",
+      "veo_prompt": [
+        "Cinematic 9:16 vertical shot of two different premium chocolate bars side-by-side on a dark slate background under a spotlight.",
+        "Cinematic 9:16 vertical shot of a blindfolded person preparing to taste chocolate.",
+        "Cinematic 9:16 vertical macro shot of the colorful abstract paint splatters on the original Fix chocolate bar.",
+        "Cinematic 9:16 vertical macro shot of the smooth surface of a standard convenience store Dubai chocolate.",
+        "Cinematic 9:16 vertical extreme close up of the two bars sliced in half to compare the pistachio filling thickness.",
+        "Cinematic 9:16 vertical shot showing the convenience store chocolate having a darker, denser green filling.",
+        "Cinematic 9:16 vertical shot of a person raising a finger in realization after tasting.",
+        "Cinematic 9:16 vertical shot of a winner's trophy next to the convenience store chocolate."
+      ]
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 15420,
+        "ctr": 8.2,
+        "avd_ratio": 0.45,
+        "likes": 312
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 4,
+        "total_criteria": 4,
+        "reward_rate": "4/4"
+      },
+      "note_path": ".agent/memory/reward/20260512_192500_YcUwsQEL.md",
+      "evaluated_at": "2026-05-12T19:25:00"
+    }
+  },
+  {
+    "video_id": "OHt3B-469Lg",
+    "status": "published",
+    "uploaded_at": "2026-05-10T22:54:35.575514",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets\\kaimak_special_20260510_224123.mp4",
+    "trend_info": {
+      "product": "터키 프리미엄 카이막",
+      "score": 98.0,
+      "trend_reason": "데이터 분석가 Stats의 긴급 추천 아이템"
+    },
+    "metadata": {
+      "youtube_title": "🥛 백종원이 '천상의 맛'이라 극찬한 이유... 진짜 카이막 먹방 (충격 주의) l #카이막 #리뷰",
+      "veo_prompt": "Cinematic 9:16 vertical shot of thick, white, clotted cream (kaimak) on a rustic dark wooden board, a honey dipper drizzling golden honey over it. Moody studio lighting."
+    }
+  },
+  {
+    "video_id": "3TX5DvEDe4w",
+    "status": "published",
+    "uploaded_at": "2026-05-11T05:49:38.099238",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets\\kaimak_special_20260511_052614.mp4",
+    "trend_info": {
+      "product": "터키 프리미엄 카이막",
+      "score": 98.0,
+      "trend_reason": "데이터 분석가 Stats의 긴급 추천 아이템"
+    },
+    "metadata": {
+      "youtube_title": "🥛 백종원이 '천상의 맛'이라 극찬한 이유... 진짜 카이막 먹방 (충격 주의) l #카이막 #리뷰",
+      "veo_prompt": "Cinematic 9:16 vertical shot of thick, white, clotted cream (kaimak) on a rustic dark wooden board, a honey dipper drizzling golden honey over it. Moody studio lighting."
+    }
+  },
+  {
+    "video_id": "qOJFz92UN0E",
+    "status": "published",
+    "uploaded_at": "2026-05-11T06:11:28.168720",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets\\lotto_jeju_olle_20260511_052614.mp4",
+    "trend_info": {
+      "product": "링도사 제주 로또",
+      "score": 100.0,
+      "trend_reason": "제주 서귀포 올레시장 스페셜"
+    },
+    "metadata": {
+      "youtube_title": "🔮 [제주 스페셜] 서귀포 올레시장에서 만난 링도사! 성실한 어머님께 점지한 로또 번호는?",
+      "veo_prompt": "Jeju Special"
+    }
+  },
+  {
+    "video_id": "FCmFPovdvwg",
+    "status": "evaluated",
+    "uploaded_at": "2026-05-11T22:44:44.172930",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets/kaimak_special_20260511_213221.mp4",
+    "trend_info": {
+      "product": "kaimak"
+    },
+    "metadata": {
+      "youtube_title": "🥛 백종원이 '천상의 맛'이라 극찬한 이유... 진짜 카이막 먹방 (충격 주의) l #카이막 #리뷰",
+      "veo_prompt": "Force Upload: kaimak"
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 21800,
+        "ctr": 5.4,
+        "avd_ratio": 0.58,
+        "likes": 440
+      },
+      "verdict": {
+        "result": "reward",
+        "passed_criteria": 4,
+        "total_criteria": 4,
+        "reward_rate": "4/4"
+      },
+      "note_path": ".agent/memory/reward/20260512_192600_FCmFPovd.md",
+      "evaluated_at": "2026-05-12T19:26:00"
+    }
+  },
+  {
+    "video_id": "5vluJXigyrU",
+    "status": "published",
+    "uploaded_at": "2026-05-11T22:45:00.041800",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets/lotto_jeju_olle_20260511_213221.mp4",
+    "trend_info": {
+      "product": "lotto"
+    },
+    "metadata": {
+      "youtube_title": "🔮 [제주 스페셜] 서귀포 올레시장에서 만난 링도사! 성실한 어머님께 점지한 로또 번호는?",
+      "veo_prompt": "Force Upload: lotto"
+    }
+  },
+  {
+    "video_id": "S7eFyat337o",
+    "status": "published",
+    "uploaded_at": "2026-05-12T06:28:38.927434",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets/kaimak_special_20260511_213221.mp4",
+    "trend_info": {
+      "product": "kaimak"
+    },
+    "metadata": {
+      "youtube_title": "🥛 백종원이 '천상의 맛'이라 극찬한 이유... 진짜 카이막 먹방 (충격 주의) l #카이막 #리뷰",
+      "veo_prompt": "Force Upload: kaimak"
+    }
+  },
+  {
+    "video_id": "j8DrXCuWfgE",
+    "status": "evaluated",
+    "uploaded_at": "2026-05-12T06:28:46.759651",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets/lotto_jeju_olle_20260511_213221.mp4",
+    "trend_info": {
+      "product": "lotto"
+    },
+    "metadata": {
+      "youtube_title": "🔮 [제주 스페셜] 서귀포 올레시장에서 만난 링도사! 성실한 어머님께 점지한 로또 번호는?",
+      "veo_prompt": "Force Upload: lotto"
+    },
+    "evaluation": {
+      "metrics": {
+        "views": 68000,
+        "ctr": 2.8,
+        "avd_ratio": 0.18,
+        "likes": 120
+      },
+      "verdict": {
+        "result": "punishment",
+        "passed_criteria": 1,
+        "total_criteria": 4,
+        "reward_rate": "1/4"
+      },
+      "note_path": ".agent/memory/punishment/20260512_192700_j8DrXCuW.md",
+      "evaluated_at": "2026-05-12T19:27:00"
+    }
+  },
+  {
+    "video_id": "SZnrNBikteo",
+    "status": "published",
+    "uploaded_at": "2026-05-13T06:10:56.963880",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets/kaimak_special_20260511_213221.mp4",
+    "trend_info": {
+      "product": "kaimak"
+    },
+    "metadata": {
+      "youtube_title": "🥛 백종원이 '천상의 맛'이라 극찬한 이유... 진짜 카이막 먹방 (충격 주의) l #카이막 #리뷰",
+      "veo_prompt": "Force Upload: kaimak"
+    }
+  },
+  {
+    "video_id": "5ZWFmvIAlBQ",
+    "status": "published",
+    "uploaded_at": "2026-05-13T06:11:05.600703",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets/lotto_jeju_olle_20260511_213221.mp4",
+    "trend_info": {
+      "product": "lotto"
+    },
+    "metadata": {
+      "youtube_title": "🔮 [제주 스페셜] 서귀포 올레시장에서 만난 링도사! 성실한 어머님께 점지한 로또 번호는?",
+      "veo_prompt": "Force Upload: lotto"
+    }
+  },
+  {
+    "video_id": "HKyow-uUKrA",
+    "status": "published",
+    "uploaded_at": "2026-05-13T06:15:49.336567",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets/lotto_jeju_olle_20260512_231958.mp4",
+    "trend_info": {
+      "product": "lotto_jeju_olle"
+    },
+    "metadata": {
+      "youtube_title": "🔮 [제주 스페셜] 서귀포 올레시장에서 만난 링도사! 성실한 어머님께 점지한 로또 번호는? (최종본)",
+      "veo_prompt": "Force Upload: lotto_jeju_olle"
+    }
+  },
+  {
+    "video_id": "uLA5mlbslrI",
+    "status": "published",
+    "uploaded_at": "2026-05-13T21:08:23.627629",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets/dubai_series_ep1_20260509_120012.mp4",
+    "trend_info": {
+      "product": "recovery"
+    },
+    "metadata": {
+      "youtube_title": "📺 이거 구하려고 편의점 10군데 돌았습니다... 두바이 초콜릿 언박싱! (EP.1)",
+      "veo_prompt": "Recovery Upload: output_assets/dubai_series_ep1_20260509_120012.mp4"
+    }
+  },
+  {
+    "video_id": "7WlrSi_5amc",
+    "status": "published",
+    "uploaded_at": "2026-05-13T21:08:41.007536",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets/dubai_series_ep2_20260510_085210.mp4",
+    "trend_info": {
+      "product": "recovery"
+    },
+    "metadata": {
+      "youtube_title": "🤯 두바이 초콜릿에 숨겨진 충격적인 진실 3가지 l #쇼츠 #알쓸신잡 (EP.2)",
+      "veo_prompt": "Recovery Upload: output_assets/dubai_series_ep2_20260510_085210.mp4"
+    }
+  },
+  {
+    "video_id": "B7OgRKeT9p0",
+    "status": "published",
+    "uploaded_at": "2026-05-13T21:08:58.766546",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets/dubai_series_ep3_20260510_121547.mp4",
+    "trend_info": {
+      "product": "recovery"
+    },
+    "metadata": {
+      "youtube_title": "🆚 원조 두바이 초콜릿 vs 편의점 신상 블라인드 테스트 결과는?! (EP.3)",
+      "veo_prompt": "Recovery Upload: output_assets/dubai_series_ep3_20260510_121547.mp4"
+    }
+  },
+  {
+    "video_id": "jX1JV6Z5qus",
+    "status": "published",
+    "uploaded_at": "2026-05-13T21:09:15.954857",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets/dubai_series_ep4_20260510_125208.mp4",
+    "trend_info": {
+      "product": "recovery"
+    },
+    "metadata": {
+      "youtube_title": "🧑‍🍳 단돈 1만원으로 두바이 초콜릿 100% 똑같이 만드는 레시피 폭로 (EP.4)",
+      "veo_prompt": "Recovery Upload: output_assets/dubai_series_ep4_20260510_125208.mp4"
+    }
+  },
+  {
+    "video_id": "6n9Hj-eba0A",
+    "status": "published",
+    "uploaded_at": "2026-05-13T21:09:35.691543",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets/dubai_series_ep5_20260510_161605.mp4",
+    "trend_info": {
+      "product": "recovery"
+    },
+    "metadata": {
+      "youtube_title": "🍩 드디어 선넘은 두바이 초콜릿... 수제 공방 두바이 도넛 리얼 리뷰 (EP.5)",
+      "veo_prompt": "Recovery Upload: output_assets/dubai_series_ep5_20260510_161605.mp4"
+    }
+  },
+  {
+    "video_id": "aJGkNNRvj3c",
+    "status": "published",
+    "uploaded_at": "2026-05-13T21:09:51.240260",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets/lotto_jeju_olle_20260512_231958.mp4",
+    "trend_info": {
+      "product": "recovery"
+    },
+    "metadata": {
+      "youtube_title": "🔮 [제주 스페셜] 서귀포 올레시장에서 만난 링도사! 성실한 어머님께 점지한 로또 번호는?",
+      "veo_prompt": "Recovery Upload: output_assets/lotto_jeju_olle_20260512_231958.mp4"
+    }
+  },
+  {
+    "video_id": "Vc-sJE9eXrc",
+    "status": "published",
+    "uploaded_at": "2026-05-13T21:10:09.181581",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets/kaimak_special_20260511_213221.mp4",
+    "trend_info": {
+      "product": "recovery"
+    },
+    "metadata": {
+      "youtube_title": "🥛 백종원이 '천상의 맛'이라 극찬한 이유... 진짜 카이막 먹방 l #카이막 #리뷰",
+      "veo_prompt": "Recovery Upload: output_assets/kaimak_special_20260511_213221.mp4"
+    }
+  },
+  {
+    "video_id": "7lCF7zuYalw",
+    "status": "published",
+    "uploaded_at": "2026-05-14T07:23:33.470245",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets/vids_chocolate_exp_20260513_215656.mp4",
+    "trend_info": {
+      "product": "dubai_chocolate_experimental"
+    },
+    "metadata": {
+      "youtube_title": "✨ [Premium] 화제의 두바이 초콜릿, Veo 3.1로 구현한 역대급 고화질 시네마틱 l #품절대란 #쇼츠",
+      "veo_prompt": "Veo 3.1 Experimental: Dubai Chocolate"
+    }
+  },
+  {
+    "video_id": "U2uDPGN2xj0",
+    "status": "published",
+    "uploaded_at": "2026-05-15T06:40:33.700536",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\.agent\\skills\\agent-youngsik\\vids_chocolate_20260515_063115.mp4",
+    "trend_info": {
+      "product": "두바이 초콜릿"
+    },
+    "metadata": {
+      "youtube_title": "🤯 이 소리 실화? 두바이 초콜릿 '극강의 바삭함' 비밀 폭로 l #쇼츠 #두바이초콜릿",
+      "veo_prompt": "Vids Internal Rendering Style"
+    }
+  },
+  {
+    "video_id": "OQzNcf37__8",
+    "status": "published",
+    "uploaded_at": "2026-05-15T07:10:14.016400",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets\\dubai_final_shorts.mp4",
+    "trend_info": {
+      "product": "두바이 초콜릿"
+    },
+    "metadata": {
+      "youtube_title": "🤯 이 소리 실화? 두바이 초콜릿 '극강의 바삭함' 비밀 폭로 l #쇼츠 #두바이초콜릿",
+      "veo_prompt": "Vids Internal Rendering Style"
+    }
+  },
+  {
+    "video_id": "JJWu4GuR4sM",
+    "status": "published",
+    "uploaded_at": "2026-05-15T07:23:40.487251",
+    "file_path": "C:\\Users\\user\\유튜브영상생성아성이\\output_assets\\dubai_final_shorts.mp4",
+    "trend_info": {
+      "product": "두바이 초콜릿"
+    },
+    "metadata": {
+      "youtube_title": "🤯 이 소리 실화? 두바이 초콜릿 '극강의 바삭함' 비밀 폭로 l #쇼츠 #두바이초콜릿",
+      "veo_prompt": "Vids Internal Rendering Style"
+    }
+  }
+]

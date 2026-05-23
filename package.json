@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@genspark/cli": "^1.0.13"
+  }
+}

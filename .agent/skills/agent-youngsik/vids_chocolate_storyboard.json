@@ -1,0 +1,43 @@
+{
+  "video_title": "🍫 두바이 초콜릿: 그 바삭함의 비밀 (The Science of Crunch)",
+  "theme": "Cinematic & Educational",
+  "aspect_ratio": "9:16 (Shorts)",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "image_path": "C:/Users/user/.gemini/antigravity/brain/632594f5-6fec-482e-8d24-9d8d7b803c70/chocolate_scene_1_crack_1778794980904.png",
+      "visual_prompt": "Cinematic extreme macro shot of a knife slowly slicing through a thick Dubai chocolate bar.",
+      "voiceover": "요즘 난리난 이 소리, 들리시나요? 두바이 초콜릿의 핵심, 바로 '카다이프'의 바삭함입니다.",
+      "style": { "bg_color": "#1A1A1A" },
+      "motion": "Slow Motion Zoom-in"
+    },
+    {
+      "scene_number": 2,
+      "image_path": "C:/Users/user/.gemini/antigravity/brain/632594f5-6fec-482e-8d24-9d8d7b803c70/chocolate_scene_2_kadayif_1778794993804.png",
+      "visual_prompt": "Extreme close-up of golden, toasted knafeh noodles (Kadayif) being tossed in a frying pan.",
+      "voiceover": "중동의 전통 국수 카다이프를 버터에 볶아 극강의 바삭함을 만들어내죠. 이게 바로 식감의 비밀입니다.",
+      "style": { "bg_color": "#2D1B0D" },
+      "motion": "Pan Right to Left"
+    },
+    {
+      "scene_number": 3,
+      "image_path": "C:/Users/user/.gemini/antigravity/brain/632594f5-6fec-482e-8d24-9d8d7b803c70/chocolate_scene_3_mixing_1778795008013.png",
+      "visual_prompt": "Macro shot of vibrant, neon-green pistachio cream being mixed with the crispy golden noodles.",
+      "voiceover": "여기에 진한 피스타치오 크림을 듬뿍 섞어주면, 우리가 아는 그 마법의 단면이 완성됩니다.",
+      "style": { "bg_color": "#0F2D0F" },
+      "motion": "Rotating Top-down shot"
+    },
+    {
+      "scene_number": 4,
+      "image_path": "C:/Users/user/.gemini/antigravity/brain/632594f5-6fec-482e-8d24-9d8d7b803c70/chocolate_scene_4_eating_1778795024629.png",
+      "visual_prompt": "A person taking a bite of the chocolate, their face showing pure bliss.",
+      "voiceover": "단순한 유행이 아닙니다. 식감과 풍미의 완벽한 조화, 직접 경험해보세요.",
+      "style": { "bg_color": "#1A1A1A" },
+      "motion": "Slow Zoom-out"
+    }
+  ],
+  "audio_plan": {
+    "bgm": "calm_bgm.webm",
+    "voice_actor": "ko-KR-SunHiNeural"
+  }
+}
