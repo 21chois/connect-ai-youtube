@@ -1,0 +1,49 @@
+{
+  "project_name": "가성비_꿀템_하이브리드_프로젝트",
+  "items": [
+    {
+      "id": "item_01",
+      "name": "반자동 회전 스텐 거품기",
+      "raw_url": "https://www.coupang.com/vp/products/5455310196?itemId=8336734675&vendorItemId=75624560120",
+      "affiliate_url": "https://link.coupang.com/a/dO5bKby8Rw",
+      "human_source": "핸드 믹서기.mp4",
+      "youtube_title": "🚨 다이소 가지 마세요! 3초 만에 끝나는 삶의 질 상승 주방 꿀템 l #쇼츠 #가성비",
+      "youtube_tags": ["살림꿀템", "자취생필수템", "주방용품", "반자동거품기", "가성비", "쇼츠"],
+      "imagen_prompt": [
+        "Cinematic 9:16 vertical shot of a messy kitchen counter with egg mix splattered everywhere. Frustrated mood.",
+        "Cinematic 9:16 vertical macro shot of a sleek stainless steel push whisk rapidly spinning in a glass bowl filled with eggs. Satisfying dynamic motion.",
+        "Cinematic 9:16 vertical shot of perfectly thick, creamy foam inside a bowl. High quality food photography."
+      ],
+      "subtitles": [
+        "아직도 팔 아프게 젓가락으로 계란 풀고 계신가요?",
+        "이 반자동 스텐 거품기 하나면 주방 삶의 질이 수직 상승합니다.",
+        "건전지? 필요 없습니다. 그냥 위아래로 꾹꾹 누르기만 하세요.",
+        "단돈 몇 천원에 손목 광명 찾으세요!",
+        "🛒 구매 좌표는 첫 번째 댓글 확인! 👇"
+      ],
+      "comment_template": "✨ 3초 만에 쫀쫀한 거품 완성! 손목 지켜주는 반자동 거품기 👇\n🛒 로켓배송 확인: {affiliate_url}\n\n*(이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.)*"
+    },
+    {
+      "id": "item_02",
+      "name": "몬스터 클리어 겔 테이프",
+      "raw_url": "",
+      "affiliate_url": "https://link.coupang.com/a/dO5r933kuO",
+      "human_source": "신기한 테이프.mp4",
+      "youtube_title": "🤯 월세방 필수템! 못질 없이 집안 평수 넓히는 기적의 아이템 l #자취생 #꿀템",
+      "youtube_tags": ["자취생꿀템", "몬스터겔테이프", "정리정돈", "인테리어", "가성비", "쇼츠"],
+      "imagen_prompt": [
+        "Cinematic 9:16 vertical shot of a messy room floor with tangled cables, power strips, and routers. Tripping hazard, messy mood.",
+        "Cinematic 9:16 vertical macro shot of thick transparent nano tape being applied to the back of a heavy power strip. Satisfying.",
+        "Cinematic 9:16 vertical shot of a perfectly organized neat room with no cables on the floor. Everything floating on the wall."
+      ],
+      "subtitles": [
+        "전선 널브러진 방바닥, 못질하다 망친 벽지... 제발 당장 멈추세요.",
+        "이 몬스터 겔 테이프 하나면 멀티탭부터 액자까지 허공에 다 붙습니다.",
+        "무거운 것도 척척 붙고, 나중에 뗄 때는 껌처럼 자국 없이 떨어지죠.",
+        "물로 씻으면 무한 재사용 가능! 만원으로 집안 평수를 넓히세요.",
+        "🛒 로켓배송 좌표는 고정 댓글에! 👇"
+      ],
+      "comment_template": "✨ 자국 하나 없이 공중부양! 자취생 필수 몬스터 테이프 👇\n🛒 로켓배송 확인: {affiliate_url}\n\n*(이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.)*"
+    }
+  ]
+}

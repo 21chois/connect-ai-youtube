@@ -1,0 +1,95 @@
+{
+  "series_name": "링도사 유니버스 (Ringdosa Universe)",
+  "episodes": [
+    {
+      "ep_number": 1,
+      "theme": "The Celestial Awakening",
+      "youtube_title": "🔮 당신에게만 열리는 천상의 문... 링도사의 첫 번째 예언 l #로또 #운세",
+      "youtube_tags": ["로또", "링도사", "운세", "행운", "고양이", "쇼츠", "신비주의", "동기부여"],
+      "imagen_prompt": [
+        "Hyper-realistic 9:16 vertical shot of a majestic bicolor cat (white and brown patches) with glowing blue eyes, wearing a miniature traditional Korean black Gat and gold-embroidered silk robes. The cat is sitting on a floating jade throne in a temple above the clouds. Volumetric lighting, ethereal atmosphere, 8k, cinematic.",
+        "A massive golden gate slowly opening in the sky, revealing a universe of swirling galaxies and nebula. Intricate celestial patterns on the gate. Cinematic wide shot, epic scale, hyper-detailed.",
+        "Close-up of the cat's paw touching a floating glowing crystal orb. Magical blue sparks and sacred geometry symbols erupting from the contact. High contrast, sharp focus, Octane render.",
+        "Dramatic low-angle shot of the cat looking towards the horizon as six golden lotto numbers begin to materialize in the air. Soft golden particles, majestic background, cinematic color grading."
+      ],
+      "subtitles": [
+        "수천 년 동안 닫혀 있던 천상의 문이 마침내 당신 앞에 열렸습니다.",
+        "나 링도사가 오늘, 당신의 운명을 바꿀 첫 번째 신호를 보냅니다.",
+        "이 신성한 구슬에 담긴 기운이 당신의 손끝에 닿기를 바랍니다.",
+        "자, 이제 눈을 감고 당신의 숫자를 맞이할 준비를 하십시오!"
+      ]
+    },
+    {
+      "ep_number": 2,
+      "theme": "The Traditional Market",
+      "youtube_title": "🔔 전통시장의 새벽을 여는 링도사의 종소리... 당신에게 행운을! l #로또 #민생",
+      "youtube_tags": ["로또", "링도사", "전통시장", "민생", "위로", "행운", "고양이", "쇼츠"],
+      "imagen_prompt": [
+        "Cinematic 9:16 shot of the bicolor cat (white and brown) in shaman robes walking through a traditional Korean market at dawn. Soft blue morning light, steam rising from food stalls. Hyper-detailed textures.",
+        "The cat ringing a small golden bell in front of an elderly woman's vegetable stall. The bell emits a soft golden aura. Heartwarming and mystical atmosphere.",
+        "Close-up of the cat's wise blue eyes reflecting the colorful lights of the market. Cinematic depth of field, 8k, photorealistic.",
+        "The cat standing on a wooden crate, pointing its paw towards the sky as golden lotto numbers appear among the market stalls. Warm and hopeful lighting."
+      ],
+      "subtitles": [
+        "차가운 새벽 공기를 가르며, 나 링도사가 이곳 전통시장에 도착했습니다.",
+        "정직한 땀방울이 흐르는 이곳에, 천상의 기운을 가득 담아드립니다.",
+        "투박한 손마디에 깃든 당신의 노력이 곧 찬란한 결실로 돌아올 것입니다.",
+        "자, 이 시장의 활기를 담은 당신의 행운 번호입니다: {num_str}"
+      ]
+    },
+    {
+      "ep_number": 3,
+      "theme": "The Old Alleyway",
+      "youtube_title": "🏠 소외된 골목길에 찾아온 링도사의 따뜻한 위로 l #로또 #희망",
+      "youtube_tags": ["로또", "링도사", "골목길", "위로", "희망", "행운", "고양이", "쇼츠"],
+      "imagen_prompt": [
+        "Cinematic 9:16 shot of the bicolor cat walking gracefully through a narrow, old residential alleyway with colorful murals. Warm sunset light casting long shadows.",
+        "The cat sitting on a stone wall, looking at a small sprout growing between the cracks. The sprout starts to glow with golden light. Symbol of hope, 8k.",
+        "Macro shot of the cat's paw leaving a glowing golden footprint on the pavement. The light spreads like a net of luck. Mystical and poetic.",
+        "The cat looking up at the evening stars as they align to form six brilliant lotto numbers above the rooftops. Serene and magical atmosphere."
+      ],
+      "subtitles": [
+        "화려한 도심 뒤편, 조용히 숨죽인 이 골목에도 행운은 반드시 찾아옵니다.",
+        "가장 낮은 곳에서 시작된 당신의 기도가 마침내 하늘에 닿았습니다.",
+        "어둠이 깊을수록 별은 더 밝게 빛나는 법, 당신의 계절이 오고 있습니다.",
+        "오늘 밤, 이 골목을 비추는 별들이 전하는 번호입니다: {num_str}"
+      ]
+    },
+    {
+      "ep_number": 4,
+      "theme": "The Industrial Heart",
+      "youtube_title": "⚙️ 밤늦게까지 꺼지지 않는 불빛... 링도사가 당신을 응원합니다 l #로또 #성공",
+      "youtube_tags": ["로또", "링도사", "산업현장", "응원", "성공", "행운", "고양이", "쇼츠"],
+      "imagen_prompt": [
+        "Epic 9:16 shot of the bicolor cat standing on a high steel beam overlooking a busy industrial district at night. Countless sparks and orange lights in the background.",
+        "The cat performing a ritual with its paws, sending waves of golden energy into the vibrating machinery of a factory. Powerful and majestic.",
+        "Close-up of the cat's face, illuminated by the orange glow of molten metal. Its blue eyes are filled with determination and compassion. Cinematic lighting.",
+        "The cat disappearing into a cloud of golden steam, leaving behind six massive lotto numbers glowing like neon signs in the industrial fog."
+      ],
+      "subtitles": [
+        "모두가 잠든 밤, 대한민국의 심장을 뛰게 하는 당신의 불빛을 보았습니다.",
+        "당신의 쉼 없는 노고가 헛되지 않도록, 나 링도사가 강력한 복을 빌어드립니다.",
+        "쇠를 녹이는 뜨거운 열기보다 더 뜨거운 당신의 열망을 응원합니다.",
+        "자, 당신의 땀방울이 황금으로 변할 시간입니다: {num_str}"
+      ]
+    },
+    {
+      "ep_number": 5,
+      "theme": "The Final Blessing",
+      "youtube_title": "🎊 전국 팔도 유랑의 마침표, 링도사의 마지막 축복을 받으세요 l #로또 #대박",
+      "youtube_tags": ["로또", "대박", "축복", "링도사", "성공", "부자", "쇼츠", "고양이"],
+      "imagen_prompt": [
+        "Majestic 9:16 shot of the bicolor cat standing on a remote mountain peak at sunrise, looking over the entire nation. Golden hour lighting, epic composition.",
+        "The cat performing a grand final blessing. A massive golden ring (Halo) appears behind it, symbolizing the 'Ringdosa'. Cinematic particle effects, god-like energy.",
+        "A close-up of the cat smiling gently, its blue eyes filled with pure light. It looks directly at the viewer with a sense of completion and peace.",
+        "The cat transforms into a shower of golden flower petals and light, leaving behind the final six lotto numbers in the morning sky. Beautiful and satisfying ending."
+      ],
+      "subtitles": [
+        "전국 팔도, 가장 낮은 곳부터 가장 높은 곳까지 나의 유랑이 끝났습니다.",
+        "이제 온 나라에 행운의 씨앗이 뿌려졌으니, 당신은 그저 믿고 거두면 됩니다.",
+        "나 링도사의 마지막 축복이 당신의 삶을 영원한 황금빛으로 채울 것입니다.",
+        "우리는 곧 가장 풍요로운 곳에서 다시 만날 것입니다. 행운을 빕니다: {num_str}"
+      ]
+    }
+  ]
+}

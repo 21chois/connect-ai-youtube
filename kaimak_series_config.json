@@ -1,0 +1,30 @@
+{
+  "episodes": [
+    {
+      "ep_number": 1,
+      "style": "cinematic_review",
+      "youtube_title": "🥛 백종원이 '천상의 맛'이라 극찬한 이유... 진짜 카이막 먹방 (충격 주의) l #카이막 #리뷰",
+      "youtube_tags": ["카이막", "백종원카이막", "천상의맛", "터키디저트", "먹방", "쇼츠", "리얼리뷰", "디저트카페"],
+      "imagen_prompt": [
+        "Cinematic 9:16 vertical shot of thick, white, clotted cream (kaimak) on a rustic dark wooden board, a honey dipper drizzling golden honey over it. Moody studio lighting.",
+        "Cinematic 9:16 vertical macro shot of warm, steam-rising Turkish bread (pide) being torn apart by hand.",
+        "Cinematic 9:16 vertical shot of a person dipping the bread into the thick kaimak and honey mixture. Close-up on the gooey texture.",
+        "Cinematic 9:16 vertical extreme close-up of the kaimak texture, looking rich and silky like a cloud of milk.",
+        "Cinematic 9:16 vertical shot of a stylish white plate with kaimak, honey, and pistachios. Professional food photography style.",
+        "Cinematic 9:16 vertical shot of a person taking a bite, their eyes widening in surprise and delight.",
+        "Cinematic 9:16 vertical shot of a storefront sign that says 'Heavenly Taste Kaimak' in a trendy neon font.",
+        "Cinematic 9:16 vertical shot of a big 'BUY NOW' button floating over the empty plate with honey crumbs."
+      ],
+      "subtitles": [
+        "이거 진짜 구하기 힘든 건데... 드디어 모셔왔습니다.",
+        "백종원 선생님이 극찬하신 바로 그 '천상의 맛', 카이막입니다.",
+        "우유 10kg에서 고작 400g만 나오는 귀한 녀석이죠.",
+        "자, 꿀이랑 같이 한 입... 와, 입안에서 우유 폭탄이 터집니다.",
+        "생크림보다 10배는 진하고 버터보다 부드러워요. 이건 사기입니다.",
+        "서울 핫플에서도 매번 품절이라는데, 집에서 즐길 수 있는 법 찾았습니다.",
+        "진짜 카이막의 쫀득함, 한 번 맛보면 절대 못 돌아갑니다.",
+        "구매 좌표는 댓글에 남겨둘게요. 무조건 드셔보세요!"
+      ]
+    }
+  ]
+}
