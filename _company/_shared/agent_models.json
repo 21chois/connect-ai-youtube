@@ -1,11 +1,12 @@
 {
   "ceo": "qwen2.5:0.5b",
   "secretary": "qwen2.5:0.5b",
-  "youtube": "qwen2.5:0.5b",
-  "researcher": "qwen2.5:0.5b",
-  "business": "qwen2.5:0.5b",
-  "writer": "qwen2.5:0.5b",
-  "editor": "qwen2.5:0.5b",
   "designer": "qwen2.5:0.5b",
-  "instagram": "qwen2.5:0.5b"
+  "youtube": "qwen2.5:0.5b",
+  "business": "qwen2.5:0.5b",
+  "developer": "qwen2.5:0.5b",
+  "editor": "qwen2.5:0.5b",
+  "instagram": "qwen2.5:0.5b",
+  "researcher": "qwen2.5:0.5b",
+  "writer": "qwen2.5:0.5b"
 }

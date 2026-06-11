@@ -10,17 +10,11 @@ trend_sniper.json. If a key exists in both, trend_sniper.json wins.
 Requires:  pip install google-api-python-client requests
 """
 import os, json, time, random, datetime, sys
+
 import sys
 if hasattr(sys.stdout, 'reconfigure'): sys.stdout.reconfigure(errors='replace')
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-
-# Ensure stdout uses utf-8 to avoid CP949 errors on Windows
-if sys.platform == "win32":
-    try:
-        sys.stdout.reconfigure(encoding='utf-8')
-    except AttributeError:
-        pass
 CONFIG_PATH = os.path.join(HERE, "trend_sniper.json")
 ACCOUNT_PATH = os.path.join(HERE, "youtube_account.json")
 REPORT_PATH = os.path.join(HERE, "trend_sniper_report.md")
